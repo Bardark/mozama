@@ -1,3 +1,10 @@
+@font-face {
+  font-family: letraGi;
+   src: url(../fonts/GI-Regular.otf);
+}
+.letrasGi{
+  font-family: letraGi,'Open Sans',serif;
+}
 .transparenteClaro{
   background-color: rgba(236, 239, 241, 0.7);
   border-top: #eceff1;
@@ -129,3 +136,28 @@ div#dialogo p{
 	font-size: 1.3em;
 	text-align: center;
 }
+/*efecto inicial*/
+article {
+			position: relative;
+			width: 100%;
+			height: 700px;
+			/*margin-top: 400px;*/
+			overflow: hidden;
+		/*	border-top: 4px solid #fff;
+			border-bottom: 4px solid #fff;*/
+		}
+		article img {
+			position: absolute;
+			/*bottom:0;
+			left: 0;*/
+      width: 100%;
+       height: auto;
+		}
+		article p {
+			position: absolute;
+			width: 100%;
+			margin-top: 200px;
+			/*text-transform: uppercase;*/
+			color: #fff;
+			font-size: 6em;
+		}
