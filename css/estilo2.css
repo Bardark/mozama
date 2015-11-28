@@ -11,6 +11,26 @@
   border-left: #eceff1;
   border-bottom: #eceff1;
 }
+.seccion{
+  /*background-color: rgba(236, 239, 241, 0.7);*/
+  background-color: #212121;
+  width: 100%;
+  height: auto;
+  padding: 3%;
+}
+.seccion1{
+  background-color: #8bc34a;
+  width: 100%;
+  height: auto;
+  padding: 3%;
+}
+.seccion2{
+  background-color: #009688;
+  width: 100%;
+  height: auto;
+  padding: 3%;
+}
+
 .fondo{
   background-repeat:no-repeat;
   background-position: center;

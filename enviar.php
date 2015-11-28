@@ -7,10 +7,9 @@
 	$nombre = $_POST["nombreContacto"];
 	$email = $_POST["correoContacto"];
 	$mensaje = $_POST["mensajeContacto"];
-	    
-	mail("disiin@hotmail.com", $nombre, $mensaje, $email); 
+
+	mail("disiin@hotmail.com", $nombre, $mensaje, $email);
                     echo '<script language="javascript" type="text/javascript">
                         alert("¡¡Comentario enviado con éxito!!" );
                         document.location.href="index.html"
                     </script>'  
-?>
