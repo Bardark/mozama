@@ -11,5 +11,6 @@
 	mail("disiin@hotmail.com", $nombre, $mensaje, $email);
                     echo '<script language="javascript" type="text/javascript">
                         alert("¡¡Comentario enviado con éxito!!" );
-                        document.location.href="index.html"
-                    </script>'  
+                        document.location.href="index.php"
+                    </script>';
+                    ?>  

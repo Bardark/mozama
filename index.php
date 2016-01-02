@@ -143,7 +143,7 @@
                             <div class="control-group form-group">
                               <div class="input-group">
                                 <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                  <input id="name" name="name" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50" required>
+                                  <input id="nombreContacto" name="nombreContacto" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50" required>
                               </div>
                               <!-- <p class="text-danger" id="spnNombre"> </p>  -->
                             </div>
@@ -151,13 +151,13 @@
                             <div class="control-group form-group">
                               <div class="input-group">
                                 <span class="input-group-addon glyphicon"><i class="fa fa-at"></i></span>
-                                <input id="email" name="email" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50" required>
+                                <input id="correoContacto" name="correoContacto" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50" required>
                                 <!-- <p class="text-danger" id="spnCorreo"> </p>  -->
                               </div>
                             </div>
                             <div class="control-group form-group">
                               <div class="controls">
-                                <textarea id="message" name="message" rows="8" cols="100" class="form-control grisObscuro"  maxlength="900" style="resize:none" placeholder="*Asunto y Mensaje" required></textarea>
+                                <textarea id="message" name="mensajeContacto" rows="8" cols="100" class="form-control grisObscuro"  maxlength="900" style="resize:none" placeholder="*Asunto y Mensaje" required></textarea>
                                 <!--  <p class="text-danger" id="spnMensaje"> </p> -->
                               </div>
                             </div>
