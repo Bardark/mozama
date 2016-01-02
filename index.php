@@ -127,7 +127,8 @@
 	            </h1>
 
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
+            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/golo1.jpg" class="imgPortafolio"></a>
 
             </div>
         </div>
