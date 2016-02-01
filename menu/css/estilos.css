@@ -63,7 +63,7 @@ header nav li{
 	border-radius: 10px;
 	border: 2px solid black;
 	text-align: center;
-	background: rgba(1,68,85, 0.9);
+	background: rgba(255,152,0, 0.9);
 	
 
 	position: absolute;
@@ -102,4 +102,8 @@ ul:hover li:nth-of-type(3){
 	header h1{
 		top: 30px;
 	}
+}
+.imgServicio{
+	width: 70%;
+	height:70%;
 }

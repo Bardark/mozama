@@ -25,97 +25,68 @@
 
 
 
-    <article>
+   <!--  <article>
 			<img src="img/board-453758_1280.jpg" alt="Paris"  data-parallax='{"y": 250}'/>
 			<img src="img/logo.png">
       
 		</article>
-
-  <!-- ****************************** -->
-<!--  <div style="background-image:url('img/fondo_i.jpg');" class="fondo paddingContenido">
-</div> -->
+ -->
+  <div style="background-image:url('img/fondo_i.jpg');" class="fondo paddingContenido centrar">
+    <center>  <img src="img/logo.png" class="img-responsive"> </center>
+  </div> 
 
 <section id="servicios" class="container content-section text-center seccion2">
-        <div class="row">
+      
+
+  <div class="row">
+
+  <div class="row">
       <div class="col-lg-12">
         <br>
           <h1 class="page-header txtDorado texto3d">
-              Servicios
+              <i class="fa fa-laptop"></i> Servicios
           </h1>
           <br>
       </div>
-      <div class="col-md-4 animEscalarSimple">
-        <div class="well transparenteClaro">
+      
+  </div>
+
+   <div class="col-md-4 animEscalarSimple">
+        <div class="well transparenteClaro sombra">
                   <h4 class="text-center"><i class="fa fa-laptop"></i> Diseño Web</h4>
                   <hr>
               <div >
                   <img class="img-responsive img-center" src="img/disenio.jpg" alt="">
                   <br>
-                  <p>Desarrollo, diseño y modificaciones de páginas web.</p>
+                  <p>Desarrollo, diseño y mantenimiento de sitios web.</p>
               </div>
           </div>
       </div>
+     
+      
       <div class="col-md-4 animEscalarSimple">
-          <div class="well transparenteClaro">
-                  <h4 class="text-center"><i class="fa fa-laptop"></i> Desarrollo de sistemas de registro y puntos de venta.</h4>
-                  <hr>
-              <div >
-                  <img class="img-responsive img-center" src="img/anyer.jpg" alt="">
-                  <br>
-                  <p>Diseño de sistemas de información en Excel..</p>
-              </div>
-          </div>
-      </div>
-      <div class="col-md-4 animEscalarSimple">
-        <div class="well transparenteClaro">
-                  <h4 class="text-center"><i class="fa fa-fw fa-check"></i> Software para registro de clientes o pacientes</h4>
-                  <hr>
-              <div >
-                  <img class="img-responsive img-center" src="img/gestor.jpg" alt="">
-                  <br>
-                  <p>Software elaborado a la medida deacuerdo a sus necesidades.</p>
-                  <!-- <a href="#" class="btn btn-default">Learn More</a>  -->
-              </div>
-          </div>
-      </div>
-  </div>
-
-  <div class="row">
-      <div class="col-md-4 animEscalarSimple">
-        <div class="well transparenteClaro">
-                  <h4 class="text-center"><i class="fa fa-mobile"></i> Instalación de Apps</h4>
-                  <hr>
-              <div >
-                  <img class="img-responsive img-center" src="img/app.jpg" alt="">
-                  <br>
-                  <p>Instalación de aplicaciones para distintos dispositivos móviles</p>
-              </div>
-          </div>
-      </div>
-      <div class="col-md-4 animEscalarSimple">
-        <div class="well transparenteClaro"><h4 class="text-center">Mantenimiento preventivo y correctivo.</h4>
-                  <hr>
-              <div>
-                  <img class="img-responsive img-center" src="img/mant.jpg" alt="">
-                  <br>
-                  <p>Contamos con amplia experiencia en el mantenimiento de equipos de computo...</p>
-                  <!--  <a href="#" class="btn btn-default">Learn More</a> -->
-              </div>
-        </div>
-      </div>
-      <div class="col-md-4 animEscalarSimple">
-        <div class="well transparenteClaro">
+        <div class="well transparenteClaro sombra">
                   <h4 class="text-center"><i class="fa fa-fw fa-compass"></i>Redes</h4>
                   <hr>
               <div>
                   <img class="img-responsive img-center" src="img/red.jpg" alt="">
                   <br>
-                  <p>Ofrecemos el servicio de implementación de redes y cableado estructurado básico...</p>
+                  <p>Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
                   <!-- <a href="#" class="btn btn-default">Learn More</a>  -->
               </div>
           </div>
       </div>
-
+      <div class="col-md-4 animEscalarSimple">
+        <div class="well transparenteClaro sombra"><h4 class="text-center"><i class="fa fa-cogs"></i> Mantenimiento preventivo y correctivo.</h4>
+                  <hr>
+              <div>
+                  <img class="img-responsive img-center imgServicio" src="img/mant.jpg" alt="">
+                  <br>
+                  <p>Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
+                  <!--  <a href="#" class="btn btn-default">Learn More</a> -->
+              </div>
+        </div>
+      </div>
 
     </section>
 
@@ -123,25 +94,38 @@
         <div class="row">
             <div class="col-lg-9">
 	            <h1 class="page-header texto3d">
-	            	Portafolio
+	            	<i class="fa fa-suitcase"></i> Portafolio
 	            </h1>
 
             </div>
             <div class="col-md-4">
-            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/golo1.jpg" class="imgPortafolio"></a>
+            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/golo1.jpg" class="imgPortafolio sombra"></a>
 
             </div>
         </div>
+        <br><br>
     </section>
 
     <section id="contacto" class="container content-section text-center seccion">
             <div class="row">
+              
+               <div class="row">
+                <div class="col-lg-12">
+                  
+                  <h1 class="page-header txtDorado texto3d">
+                    <i class="fa fa-comments"></i> Contactenos
+                  </h1>
+                  <br>
+                </div>
+            
+                </div>
+
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2 class="page-header">CONTACTENOS</h2>
+                    
                     <br>
                     <form name="enviarMensaje" action="enviar.php" method="post" id="enviarMensaje">
                             <div class="control-group form-group">
-                              <div class="input-group">
+                              <div class="input-group sombra">
                                 <span class="input-group-addon"><i class="fa fa-user"></i></span>
                                   <input id="nombreContacto" name="nombreContacto" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50" required>
                               </div>
@@ -149,13 +133,13 @@
                             </div>
 
                             <div class="control-group form-group">
-                              <div class="input-group">
+                              <div class="input-group sombra">
                                 <span class="input-group-addon glyphicon"><i class="fa fa-at"></i></span>
                                 <input id="correoContacto" name="correoContacto" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50" required>
                                 <!-- <p class="text-danger" id="spnCorreo"> </p>  -->
                               </div>
                             </div>
-                            <div class="control-group form-group">
+                            <div class="control-group form-group sombra">
                               <div class="controls">
                                 <textarea id="message" name="mensajeContacto" rows="8" cols="100" class="form-control grisObscuro"  maxlength="900" style="resize:none" placeholder="*Asunto y Mensaje" required></textarea>
                                 <!--  <p class="text-danger" id="spnMensaje"> </p> -->
@@ -163,7 +147,7 @@
                             </div>
 
                             <div class="col-md-8 col-md-offset-2">
-                              <button id="btnEnviar" type="submit" value="enviar" onclick="window.location.reload()" class="btn btn-primary btn-block"><i class="fa fa-paper-plane "></i> Enviar Mensaje</button>
+                              <button id="btnEnviar" type="submit" value="enviar" onclick="window.location.reload()" class="btn btn-success btn-block sombra"><i class="fa fa-paper-plane "></i> Enviar Mensaje</button>
                             </div>
 
                             <br><br><br><br>
