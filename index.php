@@ -16,11 +16,22 @@
   <script type="text/javascript" src="./menu/js/modernizr-custom.js"></script>
   <link rel="stylesheet" href="./menu/css/normalize.css">
   <link rel="stylesheet" href="./menu/css/estilos.css">
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69468292-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </head>
 
 <body data-spy="scroll" id="page-top">
 
-  
+
 <?php include ("menu/menu.php"); ?>
 
 
@@ -28,15 +39,15 @@
    <!--  <article>
 			<img src="img/board-453758_1280.jpg" alt="Paris"  data-parallax='{"y": 250}'/>
 			<img src="img/logo.png">
-      
+
 		</article>
  -->
   <div style="background-image:url('img/fondo_i.jpg');" class="fondo paddingContenido centrar">
     <center>  <img src="img/logo.png" class="img-responsive"> </center>
-  </div> 
+  </div>
 
 <section id="servicios" class="container content-section text-center seccion2">
-      
+
 
   <div class="row">
 
@@ -48,7 +59,7 @@
           </h1>
           <br>
       </div>
-      
+
   </div>
 
    <div class="col-md-4 animEscalarSimple">
@@ -62,8 +73,8 @@
               </div>
           </div>
       </div>
-     
-      
+
+
       <div class="col-md-4 animEscalarSimple">
         <div class="well transparenteClaro sombra">
                   <h4 class="text-center"><i class="fa fa-fw fa-compass"></i>Redes</h4>
@@ -108,20 +119,20 @@
 
     <section id="contacto" class="container content-section text-center seccion">
             <div class="row">
-              
+
                <div class="row">
                 <div class="col-lg-12">
-                  
+
                   <h1 class="page-header txtDorado texto3d">
                     <i class="fa fa-comments"></i> Contactenos
                   </h1>
                   <br>
                 </div>
-            
+
                 </div>
 
                 <div class="col-lg-8 col-lg-offset-2">
-                    
+
                     <br>
                     <form name="enviarMensaje" action="enviar.php" method="post" id="enviarMensaje">
                             <div class="control-group form-group">
@@ -161,7 +172,7 @@
 
   <script src="js/jquery.js"></script>
   <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.easing.min.js"></script> 
+  <script src="js/jquery.easing.min.js"></script>
     <script src="js/index.js"></script>
 
   <!-- Animacion barra de navegacion -->
