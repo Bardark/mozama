@@ -37,7 +37,7 @@ header h1{
 	width: 15%;
 	height: 15%;
 	padding: 0px 10px;
-	
+
 	top: 10px;
 	position: relative;
 }
@@ -64,7 +64,7 @@ header nav li{
 	border: 2px solid black;
 	text-align: center;
 	background: rgba(255,152,0, 0.9);
-	
+
 
 	position: absolute;
 	left: 90px;
@@ -85,18 +85,18 @@ header nav li a{
 	top: 110px;
 }
 /* efecto de movimiento a los lados */
-ul:hover li:nth-of-type(1){
+header nav ul:hover li:nth-of-type(1){
 	transform: rotate(40deg);
 	background: rgba(162,191,230, 0.5);
 }
-ul:hover li:nth-of-type(2){
+header nav ul:hover li:nth-of-type(2){
 	transform: rotate(0deg);
 	background: rgba(226,182,218, 0.5);
 }
-ul:hover li:nth-of-type(3){
+header nav ul:hover li:nth-of-type(3){
 	transform: rotate(-40deg);
 	background: rgba(202,216,107, 0.5);
-	
+
 }
 @media screen and (min-width: 767px){
 	header h1{

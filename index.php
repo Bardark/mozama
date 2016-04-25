@@ -49,7 +49,7 @@
 <section id="servicios" class="container content-section text-center seccion2">
 
 
-  <div class="row">
+  <div class="container">
 
   <div class="row">
       <div class="col-lg-12">
@@ -61,8 +61,33 @@
       </div>
 
   </div>
+  <!-- ============ PLACE ORDER ============= -->
+							<ul class="recipe-list clearfix foodRecipe">
 
-   <div class="col-md-4 animEscalarSimple">
+								<li class="layer0" data-div="one"><img src="img/red.jpg" alt=""></li>
+                <li class="layer1 active" data-div="two"><img src="img/disenio.jpg" alt=""></li>
+								<li class="layer0" data-div="three"><img src="img/mant.jpg" alt=""></li>
+							</ul>
+							<!-- ====================================== -->
+
+              <div class="slidingDiv-wrapper">
+							<div id="one" class="slidingDiv">
+								<h6>Redes </h6>
+								<p>Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
+
+							</div>
+							<div id="two" class="slidingDiv">
+								<h6>Diseño Web</h6>
+								<p>Desarrollo, diseño y mantenimiento de sitios web.</p>
+
+							</div>
+							<div id="three" class="slidingDiv">
+								<h6>Mantenimiento preventivo y correctivo.</h6>
+								<p>Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
+
+							</div>
+
+   <!--  <div class="col-md-4 animEscalarSimple">
         <div class="well transparenteClaro sombra">
                   <h4 class="text-center"><i class="fa fa-laptop"></i> Diseño Web</h4>
                   <hr>
@@ -83,7 +108,7 @@
                   <img class="img-responsive img-center" src="img/red.jpg" alt="">
                   <br>
                   <p>Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
-                  <!-- <a href="#" class="btn btn-default">Learn More</a>  -->
+
               </div>
           </div>
       </div>
@@ -94,11 +119,11 @@
                   <img class="img-responsive img-center imgServicio" src="img/mant.jpg" alt="">
                   <br>
                   <p>Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
-                  <!--  <a href="#" class="btn btn-default">Learn More</a> -->
+
               </div>
         </div>
       </div>
-
+-->
     </section>
 
 <section id="portafolio" class="container content-section text-center seccion1">
