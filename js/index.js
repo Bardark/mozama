@@ -12,10 +12,10 @@ var liCount = $(".slidingDiv").size();
 	var liActive = parseInt(liCount/2) + 1;
 	$(".recipes .container > div.slidingDiv:nth-of-type("+liActive+")").css("display","block");
 
-	activeid="#"+$(".foodRecipe li.active").data('div');
+	activeid="#"+$(".serviciosRecipe li.active").data('div');
 	$(".slidingDiv-wrapper").find(activeid).show();
 
-	$(".foodRecipe li").on("mouseenter",function(){
+	$(".serviciosRecipe li").on("mouseenter",function(){
 		$(this).siblings().removeClass("active");
 		$(this).addClass("active");
 

@@ -62,26 +62,26 @@
 
   </div>
   <!-- ============ PLACE ORDER ============= -->
-							<ul class="recipe-list clearfix foodRecipe">
+							<ul class="recipe-list clearfix serviciosRecipe">
 
-								<li class="layer0" data-div="one"><img src="img/red.jpg" alt=""></li>
-                <li class="layer1 active" data-div="two"><img src="img/disenio.jpg" alt=""></li>
-								<li class="layer0" data-div="three"><img src="img/mant.jpg" alt=""></li>
+								<li class="layer0" data-div="primero"><img src="img/red.jpg" alt=""></li>
+                <li class="layer1 active" data-div="segundo"><img src="img/disenio.jpg" alt=""></li>
+								<li class="layer0" data-div="tercero"><img src="img/mant.jpg" alt=""></li>
 							</ul>
 							<!-- ====================================== -->
               <br>
               <div class="slidingDiv-wrapper">
-							<div id="one" class="slidingDiv">
+							<div id="primero" class="slidingDiv">
 								<h4>Redes </h4>
 								<p class="parrafo">Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
 							</div>
 
-							<div id="two" class="slidingDiv">
+							<div id="segundo" class="slidingDiv">
 								<h4>Diseño Web</h4>
 								<p class="parrafo">Desarrollo, diseño y mantenimiento de sitios web.</p>
 							</div>
 
-							<div id="three" class="slidingDiv">
+							<div id="tercero" class="slidingDiv">
 								<h4>Mantenimiento preventivo y correctivo.</h4>
 								<p class="parrafo">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
 							</div>
