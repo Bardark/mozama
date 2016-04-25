@@ -1,10 +1,17 @@
+
 @font-face {
-  font-family: letraGi;
-   src: url(../fonts/GI-Regular.otf);
+  font-family: robotoRegular;
+   src: url(../fonts/Roboto-Regular.ttf);
 }
-.letrasGi{
-  font-family: letraGi,'Open Sans',serif;
+@font-face {
+  font-family: robotoLight;
+   src: url(../fonts/Roboto-Light.ttf);
 }
+.parrafo{
+  font-family: robotoLight,'Open Sans',serif;
+  font-size: 1.7em;
+}
+
 .transparenteClaro{
   background-color: rgba(236, 239, 241, 0.7);
   border-top: #eceff1;
@@ -48,10 +55,8 @@
   transition:.5s;
 }
 
-.txtDorado{
-  color:#ffc107;
-}
 .texto3d{
+  font-family: robotoRegular,'Open Sans',serif;
   text-shadow: 1px 2px 2px rgba(0,0,0,0.3);
   color: #fff;
 }
@@ -167,7 +172,7 @@ article {
 
 .recipe-list {
   padding: 0;
-  margin: 120px 0 80px;
+  margin: 80px auto 80px auto;
 }
 .recipe-list li {
   position: relative;
@@ -207,10 +212,4 @@ article {
 }
 .recipe-list li.layer1 {
   z-index: 10;
-}
-.recipe-list li.layer2 {
-  z-index: 20;
-}
-.recipe-list li.layer3 {
-  z-index: 30;
 }

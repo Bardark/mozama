@@ -7,6 +7,5 @@
 					<li><a class="page-scroll" href="#contacto">Contacto</a></li>
 				</ul>
 			</nav>
-			<img src="img/logo.png" class="logo" align="left">								
+			<img src="img/logo.png" class="logo" align="left">
 		</header>
-	

@@ -53,11 +53,11 @@
 
   <div class="row">
       <div class="col-lg-12">
-        <br>
-          <h1 class="page-header txtDorado texto3d">
+
+          <h1 class="page-header texto3d">
               <i class="fa fa-laptop"></i> Servicios
           </h1>
-          <br>
+
       </div>
 
   </div>
@@ -69,72 +69,34 @@
 								<li class="layer0" data-div="three"><img src="img/mant.jpg" alt=""></li>
 							</ul>
 							<!-- ====================================== -->
-
+              <br>
               <div class="slidingDiv-wrapper">
 							<div id="one" class="slidingDiv">
-								<h6>Redes </h6>
-								<p>Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
-
+								<h4>Redes </h4>
+								<p class="parrafo">Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
 							</div>
+
 							<div id="two" class="slidingDiv">
-								<h6>Diseño Web</h6>
-								<p>Desarrollo, diseño y mantenimiento de sitios web.</p>
-
+								<h4>Diseño Web</h4>
+								<p class="parrafo">Desarrollo, diseño y mantenimiento de sitios web.</p>
 							</div>
+
 							<div id="three" class="slidingDiv">
-								<h6>Mantenimiento preventivo y correctivo.</h6>
-								<p>Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
-
+								<h4>Mantenimiento preventivo y correctivo.</h4>
+								<p class="parrafo">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
 							</div>
-
-   <!--  <div class="col-md-4 animEscalarSimple">
-        <div class="well transparenteClaro sombra">
-                  <h4 class="text-center"><i class="fa fa-laptop"></i> Diseño Web</h4>
-                  <hr>
-              <div >
-                  <img class="img-responsive img-center" src="img/disenio.jpg" alt="">
-                  <br>
-                  <p>Desarrollo, diseño y mantenimiento de sitios web.</p>
-              </div>
-          </div>
-      </div>
-
-
-      <div class="col-md-4 animEscalarSimple">
-        <div class="well transparenteClaro sombra">
-                  <h4 class="text-center"><i class="fa fa-fw fa-compass"></i>Redes</h4>
-                  <hr>
-              <div>
-                  <img class="img-responsive img-center" src="img/red.jpg" alt="">
-                  <br>
-                  <p>Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
-
-              </div>
-          </div>
-      </div>
-      <div class="col-md-4 animEscalarSimple">
-        <div class="well transparenteClaro sombra"><h4 class="text-center"><i class="fa fa-cogs"></i> Mantenimiento preventivo y correctivo.</h4>
-                  <hr>
-              <div>
-                  <img class="img-responsive img-center imgServicio" src="img/mant.jpg" alt="">
-                  <br>
-                  <p>Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
-
-              </div>
-        </div>
-      </div>
--->
+              <br>
     </section>
 
 <section id="portafolio" class="container content-section text-center seccion1">
         <div class="row">
-            <div class="col-lg-9">
+            <div class="col-lg-12">
 	            <h1 class="page-header texto3d">
 	            	<i class="fa fa-suitcase"></i> Portafolio
 	            </h1>
 
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 animEscalarSimple">
             <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/golo1.jpg" class="imgPortafolio sombra"></a>
 
             </div>
@@ -148,7 +110,7 @@
                <div class="row">
                 <div class="col-lg-12">
 
-                  <h1 class="page-header txtDorado texto3d">
+                  <h1 class="page-header texto3d">
                     <i class="fa fa-comments"></i> Contactenos
                   </h1>
                   <br>
