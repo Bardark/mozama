@@ -42,7 +42,7 @@
 
 		</article>
  -->
-  <div style="background-image:url('img/fondo_i.jpg');" class="fondo paddingContenido centrar">
+  <div class="seccion0 fondo paddingContenido centrar">
     <center>  <img src="img/logo.png" class="img-responsive"> </center>
   </div>
 
@@ -64,9 +64,9 @@
   <!-- ============ PLACE ORDER ============= -->
 							<ul class="recipe-list clearfix serviciosRecipe">
 
-								<li class="layer0" data-div="primero"><img src="img/red.jpg" alt=""></li>
-                <li class="layer1 active" data-div="segundo"><img src="img/disenio.jpg" alt=""></li>
-								<li class="layer0" data-div="tercero"><img src="img/mant.jpg" alt=""></li>
+								<li class="layer0" data-div="primero"><img src="img/red_2202475.jpg" alt=""></li>
+                <li class="layer1 active" data-div="segundo"><img src="img/desarrollo.jpg" alt=""></li>
+								<li class="layer0" data-div="tercero"><img src="img/mantenimiento_4716496.jpg" alt=""></li>
 							</ul>
 							<!-- ====================================== -->
               <br>

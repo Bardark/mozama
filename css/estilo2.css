@@ -18,24 +18,38 @@
   border-left: #eceff1;
   border-bottom: #eceff1;
 }
+.seccion0{
+  background-image:url('../img/f1_48101573.jpg');
+}
+
 .seccion2{
-  background-color: #4CAF50;
+  /*background-color: #4CAF50;*/
+  background-image:url('../img/f3_11006643.jpg');
   width: 100%;
   height: auto;
   padding: 3%;
+  background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
 }
 .seccion1{
-  background-color: #E91E63; /**/
+  /*background-color: #E91E63; */
+  background-image:url('../img/f2_75719919.jpg');
   width: 100%;
   height: auto;
   padding: 3%;
+  background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
 }
 .seccion{
-  /*background-color: rgba(236, 239, 241, 0.7);*/
-  background-color: #1565C0;
+  background-image:url('../img/f5.jpg');
   width: 100%;
   height: auto;
   padding: 3%;
+  background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
 }
 
 
