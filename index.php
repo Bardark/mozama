@@ -54,7 +54,7 @@
   <div class="row">
       <div class="col-lg-12">
 
-          <h1 class="page-header texto3d">
+          <h1 class="page-header texto3d tipografiaPrecursive morado">
               <i class="fa fa-laptop"></i> Servicios
           </h1>
 
@@ -72,18 +72,18 @@
               <br>
               <div class="slidingDiv-wrapper">
 							<div id="primero" class="slidingDiv">
-								<h4>Redes </h4>
-								<p class="parrafo">Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
+								<strong class="tipografiaPrecursive2">Redes </strong>
+								<p class="parrafo tipografiaPrecursive2">Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
 							</div>
 
 							<div id="segundo" class="slidingDiv">
-								<h4>Diseño Web</h4>
-								<p class="parrafo">Desarrollo, diseño y mantenimiento de sitios web.</p>
+									<strong class="tipografiaPrecursive2">Diseño Web</strong>
+								<p class="parrafo tipografiaPrecursive2">Desarrollo, diseño y mantenimiento de sitios web.</p>
 							</div>
 
 							<div id="tercero" class="slidingDiv">
-								<h4>Mantenimiento preventivo y correctivo.</h4>
-								<p class="parrafo">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
+								<strong class="tipografiaPrecursive2">Mantenimiento preventivo y correctivo.</strong>
+								<p class="parrafo tipografiaPrecursive2">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
 							</div>
               <br>
     </section>
@@ -91,13 +91,13 @@
 <section id="portafolio" class="container content-section text-center seccion1">
         <div class="row">
             <div class="col-lg-12">
-	            <h1 class="page-header texto3d">
-	            	<i class="fa fa-suitcase"></i> Portafolio
+	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
+	            	<i class="fa fa-suitcase"></i> Algunos de nuestros clientes
 	            </h1>
 
             </div>
             <div class="col-md-4 animEscalarSimple">
-            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/golo1.jpg" class="imgPortafolio sombra"></a>
+            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo2.png" class="imgPortafolio sombra"></a>
 
             </div>
         </div>
@@ -110,7 +110,7 @@
                <div class="row">
                 <div class="col-lg-12">
 
-                  <h1 class="page-header texto3d">
+                  <h1 class="page-header texto3d tipografiaPrecursive verde">
                     <i class="fa fa-comments"></i> Contactenos
                   </h1>
                   <br>

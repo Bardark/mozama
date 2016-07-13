@@ -4,14 +4,24 @@
    src: url(../fonts/Roboto-Regular.ttf);
 }
 @font-face {
-  font-family: robotoLight;
-   src: url(../fonts/Roboto-Light.ttf);
+  font-family: precursive;
+   src: url(../fonts/Precursive.otf);
 }
 .parrafo{
   font-family: robotoLight,'Open Sans',serif;
   font-size: 1.7em;
 }
+.tipografiaPrecursive{
+  font-family: precursive,'Open Sans',serif;
+  letter-spacing: 0.2em;
+  font-size: 3em;
+}
 
+.tipografiaPrecursive2{
+  font-family: precursive,'Open Sans',serif;
+  letter-spacing: 0.2em;
+  font-size: 1.8em;
+}
 .transparenteClaro{
   background-color: rgba(236, 239, 241, 0.7);
   border-top: #eceff1;
@@ -36,7 +46,7 @@
   /*background-color: #E91E63; */
   background-image:url('../img/f2_75719919.jpg');
   width: 100%;
-  height: auto;
+  height: 100%;
   padding: 3%;
   background-repeat:no-repeat;
 	background-size:cover;
@@ -45,7 +55,7 @@
 .seccion{
   background-image:url('../img/f5.jpg');
   width: 100%;
-  height: auto;
+  height: 100%;
   padding: 3%;
   background-repeat:no-repeat;
 	background-size:cover;
@@ -70,9 +80,17 @@
 }
 
 .texto3d{
-  font-family: robotoRegular,'Open Sans',serif;
-  text-shadow: 1px 2px 2px rgba(0,0,0,0.3);
-  color: #fff;
+  text-shadow: 1px 2px 2px rgba(0,0,0,0.4);
+}
+.morado{
+/*  color: #880e4f;*/
+  color:#4a148c;
+}
+.verde{
+  color: #263238;
+}
+.cyan{
+  color: #006064;
 }
 .sombra{
   box-shadow: 0 5px 5px 3px rgba(0, 0, 0, 0.25);
