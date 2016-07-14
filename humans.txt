@@ -1,0 +1,18 @@
+/* TEAM */
+	Web Developers, Web designer: MOZAMA(Reyna Hernández, Edgar Santiago, Rene Hernández)
+	Site: www.mozama.com.mx
+	From: Valle de Teotihuacan, Estado de México, México.
+
+/* SITE */
+	Last update: 13/07/2016
+	Language: Español
+	Doctype: HTML5
+	Standards: HTML5, CSS3
+	Typography: Matthew Napolitano http://www.fulltimeartists.com
+  Components: Bootstrap, Font Awesome, jQuery
+  Images: kubais, siuwing, Rawpixel, Mny-Jhee, anikakodydkova, file404, ikatod, VikaSuh, Success_ER, david_dark0
+	IDE: Atom, Sublime Text, Notepad++.
+	Software: Gimp, FileZilla, Inkscape
+
+
+/*---We Are People, Not Machines---*/

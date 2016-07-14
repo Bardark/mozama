@@ -31,7 +31,10 @@
 .seccion0{
   background-image:url('../img/f1_48101573.jpg');
 }
-
+.seccionPie{
+  background-color: #263238;
+  box-shadow: 6px 5px 5px 5px rgba(0, 0, 0, 0.40);
+}
 .seccion2{
   /*background-color: #4CAF50;*/
   background-image:url('../img/f3_11006643.jpg');
@@ -91,6 +94,9 @@
 }
 .cyan{
   color: #006064;
+}
+.blanco{
+  color: #eceff1;
 }
 .sombra{
   box-shadow: 0 5px 5px 3px rgba(0, 0, 0, 0.25);
@@ -242,4 +248,10 @@ article {
 }
 .recipe-list li.layer1 {
   z-index: 10;
+}
+.pieArriba{
+  padding: 4% 0 0 3%
+}
+.paddInterno{
+  padding: 2.5% 0 0 2.5%
 }
