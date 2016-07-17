@@ -63,13 +63,13 @@
 
   </div>
   <!-- ============ PLACE ORDER ============= -->
-							<ul class="recipe-list clearfix serviciosRecipe">
+				<!--  			<ul class="recipe-list clearfix serviciosRecipe">
 
 								<li class="layer0" data-div="primero"><img src="img/red_2202475.jpg" alt=""></li>
                 <li class="layer1 active" data-div="segundo"><img src="img/desarrollo.jpg" alt=""></li>
 								<li class="layer0" data-div="tercero"><img src="img/mantenimiento_4716496.jpg" alt=""></li>
 							</ul>
-							<!-- ====================================== -->
+
               <br>
               <div class="slidingDiv-wrapper">
 							<div id="primero" class="slidingDiv">
@@ -87,13 +87,79 @@
 								<p class="parrafo tipografiaPrecursive2">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
 							</div>
               <br>
+              -->
+              <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                  <div class="item active">
+                    <div class="row">
+                      <div class="col-md-6 paddingSlider">
+                          <img src="img/red_2202475.jpg" class="imgSlider">
+                      </div>
+                      <div class="col-md-6 paddingSlider text-center centradoVertical">
+                        <strong class="tipografiaPrecursive2">Redes </strong>
+                        <br><br>
+                        <p class="parrafo tipografiaPrecursive2">
+                          Ofrecemos el servicio de implementación de redes y cableado estructurado básico.
+                        </p>
+                      </div>
+
+                    </div>
+                  </div>
+
+                  <div class="item">
+                    <div class="row">
+                      <div class="col-md-6 paddingSlider">
+                        <img src="img/desarrollo.jpg" class="imgSlider">
+                      </div>
+                      <div class="col-md-6 paddingSlider text-center">
+                        <strong class="tipografiaPrecursive2">Desarrollo de Sitios Web</strong>
+                        <br><br>
+      								  <p class="parrafo tipografiaPrecursive2">Desarrollamos sitios web a la medida respondeiendo a las necesidades de tu organización.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="item">
+                    <div class="row">
+                      <div class="col-md-6 paddingSlider">
+                        <img src="img/mantenimiento_4716496.jpg" class="imgSlider">
+                      </div>
+                      <div class="col-md-6 paddingSlider text-center">
+                        <strong class="tipografiaPrecursive2">Mantenimiento preventivo y correctivo</strong>
+                        <br><br>
+        								<p class="parrafo tipografiaPrecursive2">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
+                      </div>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                  <i class="fa fa-chevron-circle-left fa-2x" aria-hidden="true"></i>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                  <i class="fa fa-chevron-circle-right fa-2x" aria-hidden="true"></i>
+                </a>
+              </div>
     </section>
+
+
 
 <section id="portafolio" class="container content-section text-center seccion1">
         <div class="row">
             <div class="col-lg-12">
 	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
-	            	<i class="fa fa-suitcase"></i> Algunos de nuestros clientes
+	            	<i class="fa fa-suitcase"></i> Portafolio
 	            </h1>
 
             </div>
@@ -173,6 +239,11 @@
             $(".navbar-fixed-top").removeClass("top-nav-collapse");
         }
     });
+
+    $('.carousel').carousel({
+      interval: 3000;
+      pause: "hover";
+    })
     </script>
 
 
