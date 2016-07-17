@@ -1,15 +1,16 @@
 
 @font-face {
   font-family: robotoRegular;
-   src: url(../fonts/Roboto-Regular.ttf);
+   src: url(../fonts/Roboto-Light.ttf);
 }
 @font-face {
   font-family: precursive;
    src: url(../fonts/Precursive.otf);
 }
 .parrafo{
-  font-family: robotoLight,'Open Sans',serif;
-  font-size: 1.7em;
+  font-family: robotoRegular,'Open Sans',serif;
+  font-size: 1.4em;
+  letter-spacing: 0.09em;
 }
 .tipografiaPrecursive{
   font-family: precursive,'Open Sans',serif;
@@ -266,6 +267,14 @@ article {
 .centradoVertical{
   top: 50%;
 }
+.paddingSlider{
+  padding: 2% 2% 2% 2%
+}
+.paddingSlider2{
+  width: 100%;
+  height: 100%;
+  padding: 4% 0 5% 0;
+}
 /************************/
 
 .pieArriba{
@@ -274,6 +283,10 @@ article {
 .paddInterno{
   padding: 2.5% 0 0 2.5%
 }
-.paddingSlider{
-  padding: 2% 2% 2% 2%
+.well{
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 5px 5px 3px rgba(0, 0, 0, 0.25);
+  border: none;
+  padding: 4% 5% 4% 5%;
+  height: 100%;
 }

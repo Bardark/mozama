@@ -88,7 +88,7 @@
 							</div>
               <br>
               -->
-              <div id="myCarousel" class="carousel slide" data-ride="carousel">
+              <div id="myCarousel" class="carousel slide paddingSlider2" data-ride="carousel">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -98,15 +98,29 @@
 
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
+
                   <div class="item active">
+                    <div class="row">
+                      <div class="col-md-6 paddingSlider">
+                        <img src="img/desarrollo.jpg" class="imgSlider">
+                      </div>
+                      <div class="col-md-6 paddingSlider text-center">
+                        <strong class="tipografiaPrecursive2 texto3d">Desarrollo de Sitios Web</strong>
+                        <br><br>
+      								  <p class="parrafo texto3d">Desarrollamos sitios web a la medida respondeiendo a las necesidades de tu organización.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="item">
                     <div class="row">
                       <div class="col-md-6 paddingSlider">
                           <img src="img/red_2202475.jpg" class="imgSlider">
                       </div>
                       <div class="col-md-6 paddingSlider text-center centradoVertical">
-                        <strong class="tipografiaPrecursive2">Redes </strong>
+                        <strong class="tipografiaPrecursive2 texto3d">Redes </strong>
                         <br><br>
-                        <p class="parrafo tipografiaPrecursive2">
+                        <p class="parrafo texto3d">
                           Ofrecemos el servicio de implementación de redes y cableado estructurado básico.
                         </p>
                       </div>
@@ -117,25 +131,12 @@
                   <div class="item">
                     <div class="row">
                       <div class="col-md-6 paddingSlider">
-                        <img src="img/desarrollo.jpg" class="imgSlider">
-                      </div>
-                      <div class="col-md-6 paddingSlider text-center">
-                        <strong class="tipografiaPrecursive2">Desarrollo de Sitios Web</strong>
-                        <br><br>
-      								  <p class="parrafo tipografiaPrecursive2">Desarrollamos sitios web a la medida respondeiendo a las necesidades de tu organización.</p>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item">
-                    <div class="row">
-                      <div class="col-md-6 paddingSlider">
                         <img src="img/mantenimiento_4716496.jpg" class="imgSlider">
                       </div>
                       <div class="col-md-6 paddingSlider text-center">
-                        <strong class="tipografiaPrecursive2">Mantenimiento preventivo y correctivo</strong>
+                        <strong class="tipografiaPrecursive2 texto3d">Mantenimiento preventivo y correctivo</strong>
                         <br><br>
-        								<p class="parrafo tipografiaPrecursive2">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
+        								<p class="parrafo texto3d">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
                       </div>
                     </div>
 
@@ -151,6 +152,64 @@
                   <i class="fa fa-chevron-circle-right fa-2x" aria-hidden="true"></i>
                 </a>
               </div>
+            <div class="row paddingSlider2">
+              <strong class="text-center texto3d tipografiaPrecursive2">Desarrollo de Sitios Web</strong>
+              <hr><br>
+              <div class="col-md-6">
+                <div class="well">
+                  <h5 class="texto3d tipografiaPrecursive2">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    Diseño y desarrollo único
+                  </h5>
+                  <br>
+                  <p class="parrafo text-justify">
+                    Creamos sitios web únicos con características especificas que satisfacen a cada organización, basándonos en tus necesidades y los principios de usabilidad.
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-md-6 ">
+                <div class="well">
+                  <h3 class="texto3d tipografiaPrecursive2">
+                    <i class="fa fa-mobile" aria-hidden="true"></i>
+                    Diseño responsivo
+                  </h3>
+                  <br>
+                  <p class="parrafo text-justify">
+                    La tecnología responsiva permite que tu sitio web se adapte a cualquier tamaño de pantalla, esto permite que tus clientes puedan visualizarla desde una pantalla de escritorio hasta en un celular.
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="well">
+                  <h3 class="texto3d tipografiaPrecursive2">
+                    <i class="fa fa-tasks" aria-hidden="true"></i>
+                    Hospedaje web y registro de dominio
+                  </h3>
+                  <br><br>
+                  <p class="parrafo text-justify">
+                    <i class="fa fa-server" aria-hidden="true"></i>
+                    Hospedamos tu sitio web en los mejores servidores y realizamos el registro de tu dominio.
+                  </p>
+                  <br>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="well">
+                  <h3 class="texto3d tipografiaPrecursive2">
+                    <i class="fa fa-cogs" aria-hidden="true"></i>
+                    Mantenimiento de sitios web
+                  </h3>
+                  <br><br>
+                  <p class="parrafo text-justify">
+                    Si ya cuentas con un sitio web pero necesitas servicios de soporte, actualización de contenidos o de tecnologías.
+                  </p>
+                </div>
+              </div>
+
+            </div>
     </section>
 
 
