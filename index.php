@@ -36,15 +36,12 @@
 <?php include ("menu/menu.php"); ?>
 
 
-
-   <!--  <article>
-			<img src="img/board-453758_1280.jpg" alt="Paris"  data-parallax='{"y": 250}'/>
-			<img src="img/logo.png">
-
-		</article>
- -->
-  <div class="seccion0 fondo paddingContenido centrar">
-    <center>  <img src="img/logo.png" class="img-responsive"> </center>
+  <div class="seccion0 fondo">
+    <center>  <img src="img/logo.png" class="img-responsive tituloEntrada">
+      <a href="#servicios" class="page-scroll">
+        <i class="fa fa-chevron-circle-down fa-3x blanco" aria-hidden="true"></i>
+      </a>
+    </center>
   </div>
 
 <section id="servicios" class="container content-section text-center seccion2">
@@ -62,32 +59,6 @@
       </div>
 
   </div>
-  <!-- ============ PLACE ORDER ============= -->
-				<!--  			<ul class="recipe-list clearfix serviciosRecipe">
-
-								<li class="layer0" data-div="primero"><img src="img/red_2202475.jpg" alt=""></li>
-                <li class="layer1 active" data-div="segundo"><img src="img/desarrollo.jpg" alt=""></li>
-								<li class="layer0" data-div="tercero"><img src="img/mantenimiento_4716496.jpg" alt=""></li>
-							</ul>
-
-              <br>
-              <div class="slidingDiv-wrapper">
-							<div id="primero" class="slidingDiv">
-								<strong class="tipografiaPrecursive2">Redes </strong>
-								<p class="parrafo tipografiaPrecursive2">Ofrecemos el servicio de implementación de redes y cableado estructurado básico.</p>
-							</div>
-
-							<div id="segundo" class="slidingDiv">
-									<strong class="tipografiaPrecursive2">Diseño Web</strong>
-								<p class="parrafo tipografiaPrecursive2">Desarrollo, diseño y mantenimiento de sitios web.</p>
-							</div>
-
-							<div id="tercero" class="slidingDiv">
-								<strong class="tipografiaPrecursive2">Mantenimiento preventivo y correctivo.</strong>
-								<p class="parrafo tipografiaPrecursive2">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
-							</div>
-              <br>
-              -->
               <div id="myCarousel" class="carousel slide paddingSlider2" data-ride="carousel">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
@@ -154,7 +125,7 @@
               </div>
             <div class="row paddingSlider2">
               <strong class="text-center texto3d tipografiaPrecursive2">Desarrollo de Sitios Web</strong>
-              <hr><br>
+              <br><br><br>
               <div class="col-md-6">
                 <div class="well">
                   <h5 class="texto3d tipografiaPrecursive2">
@@ -223,7 +194,7 @@
 
             </div>
             <div class="col-md-4 animEscalarSimple">
-            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo2.png" class="imgPortafolio sombra"></a>
+            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo2.png" class="imgPortafolio img-responsive sombra"></a>
 
             </div>
         </div>
