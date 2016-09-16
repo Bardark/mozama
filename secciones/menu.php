@@ -5,9 +5,9 @@
                 <i class="fa fa-bars"></i>
             </button>
 
-            <a class="navbar-brand" href="index.php">
-                  <img src="img/logoNav.png" class="logoNav">
-
+            <a class="textLogo enlaceSimple" href="index.php">
+                <!--    <img src="img/logoNav.png" class="logoNav"> -->
+                MOZAMA
             </a>
         </div>
 

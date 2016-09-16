@@ -7,6 +7,10 @@
   font-family: precursive;
    src: url(../fonts/Precursive.otf);
 }
+@font-face {
+  font-family: sawasdee;
+   src: url(../fonts/Sawasdee.ttf);
+}
 .parrafo{
   font-family: robotoRegular,'Open Sans',serif;
   font-size: 1.4em;
@@ -89,6 +93,13 @@
 .texto3d{
   text-shadow: 1px 2px 2px rgba(0,0,0,0.4);
 }
+.textLogo{
+  margin: .5% .5% .5% .5%;
+  font-family: sawasdee,'Open Sans',serif;
+  font-size: 1.6em;
+  letter-spacing: 0.4em;
+  font-weight: 500;
+}
 .morado{
 /*  color: #880e4f;*/
   color:#4a148c;
@@ -111,15 +122,15 @@
 
 .enlaceSimple{
   padding: 2%,0,0,0;
-  color: #fff;
+  color: #014455;
 }
 .enlaceSimple:hover{
   text-decoration: none;
-  color: #ffc107;
+  color: #D35500;
 }
 .enlaceSimple:active{
   text-decoration: none;
-  color: #009688;
+  color: #D35500;
 }
 .enlaceSimple:link{
   text-decoration: none;
@@ -144,7 +155,7 @@ html {
 
 
 #barraNav{
-  /*padding-left: 1%;*/
+  padding-left: 1%;
   padding-right: 1%;
 }
 .navbar-default {
@@ -152,6 +163,7 @@ html {
   background-color: transparent;
 }
 .nav.navbar-nav {
+  /*  align: right;*/
     background-color: rgba(255,255,255,.4);
 }
 .navbar-custom ul.nav li a {
@@ -160,7 +172,7 @@ html {
 	letter-spacing: 1px;
   color: #444;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 500;
 }
 
 .navbar-custom .nav li a:hover,
