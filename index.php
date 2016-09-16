@@ -52,7 +52,7 @@
   <div class="row">
       <div class="col-lg-12">
 
-          <h1 class="page-header texto3d tipografiaPrecursive morado">
+          <h1 class="page-header texto3d tipografiaPrecursive cyan">
               <i class="fa fa-laptop"></i> Servicios
           </h1>
 
