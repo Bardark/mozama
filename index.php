@@ -33,10 +33,10 @@
 <body data-spy="scroll" id="page-top">
 
 
-<?php include ("menu/menu.php"); ?>
+<?php include ("secciones/menu.php"); ?>
 
 
-  <div class="seccion0 fondo">
+  <div class="seccion0 fondo" id="inicio">
     <center>  <img src="img/logo.png" class="img-responsive tituloEntrada">
       <a href="#servicios" class="page-scroll">
         <i class="fa fa-chevron-circle-down fa-3x blanco" aria-hidden="true"></i>
