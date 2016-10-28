@@ -181,6 +181,96 @@
               </div>
 
             </div>
+
+<div class="container">
+
+  <div class="row">
+
+
+  </div>
+              <div id="myCarousel" class="carousel slide paddingSlider2" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+
+                  <div class="item active">
+                    <div class="row">
+                      <div class="col-md-6 paddingSlider">
+                        <img src="img/desarrollo.jpg" class="imgSlider">
+                      </div>
+                      <div class="col-md-6 paddingSlider text-center">
+                        <strong class="tipografiaPrecursive2 texto3d">Básico</strong>
+                        <br><br>
+                        <strong class="parrafo texto3d">Incluye: </strong>
+                        <br><br>
+                        <ul>
+                          <li style="list-style:none;" class="parrafo texto3d">Diseño o rediseño web.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="item">
+                    <div class="row">
+                      <div class="col-md-6 paddingSlider">
+                          <img src="img/red_2202475.jpg" class="imgSlider">
+                      </div>
+                      <div class="col-md-6 paddingSlider text-center centradoVertical">
+                        <strong class="tipografiaPrecursive2 texto3d">Estandar</strong>
+                        <br><br>
+                        <strong class="parrafo texto3d">Incluye: </strong>
+                        <br><br>
+                        <ul>
+                          <li style="list-style:none;" class="parrafo texto3d">Diseño o rediseño web.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">1 Dominio.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Hospedaje web.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
+                        </ul>
+                      </div>
+
+                    </div>
+                  </div>
+
+                  <div class="item">
+                    <div class="row">
+                      <div class="col-md-6 paddingSlider">
+                        <img src="img/mantenimiento_4716496.jpg" class="imgSlider">
+                      </div>
+                      <div class="col-md-6 paddingSlider text-center">
+                        <strong class="tipografiaPrecursive2 texto3d">Avanzado</strong>
+                        <br><br>
+                        <strong class="parrafo texto3d">Incluye: </strong>
+                        <br><br>
+                        <ul>
+                          <li style="list-style:none;" class="parrafo texto3d">Diseño o rediseño web.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">1 Dominio.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Hospedaje web.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Bases de datos.</li>
+                        </ul>
+                      </div>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                  <i class="fa fa-chevron-circle-left fa-2x" aria-hidden="true"></i>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                  <i class="fa fa-chevron-circle-right fa-2x" aria-hidden="true"></i>
+                </a>
+              </div>
+
     </section>
 
 
