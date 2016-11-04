@@ -14,9 +14,7 @@
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/estilo2.css" rel="stylesheet">
   <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <script type="text/javascript" src="./menu/js/modernizr-custom.js"></script>
-  <link rel="stylesheet" href="./menu/css/normalize.css">
-  <link rel="stylesheet" href="./menu/css/estilos.css">
+
 
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -182,13 +180,11 @@
 
             </div>
 
-<div class="container">
-
-  <div class="row">
 
 
-  </div>
-              <div id="myCarousel" class="carousel slide paddingSlider2" data-ride="carousel">
+
+
+            <div id="carouselPrecios" class="carousel slide paddingSlider2" data-ride="carousel">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -205,12 +201,11 @@
                         <img src="img/desarrollo.jpg" class="imgSlider">
                       </div>
                       <div class="col-md-6 paddingSlider text-center">
-                        <strong class="tipografiaPrecursive2 texto3d">Básico</strong>
-                        <br><br>
-                        <strong class="parrafo texto3d">Incluye: </strong>
+                        <p class="tipografiaPrecursive2 texto3d">Básico</p>
+
                         <br><br>
                         <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">Diseño o rediseño web.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Diseño web.</li>
                           <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
                         </ul>
                       </div>
@@ -223,12 +218,11 @@
                           <img src="img/red_2202475.jpg" class="imgSlider">
                       </div>
                       <div class="col-md-6 paddingSlider text-center centradoVertical">
-                        <strong class="tipografiaPrecursive2 texto3d">Estandar</strong>
+                        <p class="tipografiaPrecursive2 texto3d">Estandar</p>
                         <br><br>
-                        <strong class="parrafo texto3d">Incluye: </strong>
-                        <br><br>
+
                         <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">Diseño o rediseño web.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Diseño web.</li>
                           <li style="list-style:none;" class="parrafo texto3d">1 Dominio.</li>
                           <li style="list-style:none;" class="parrafo texto3d">Hospedaje web.</li>
                           <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
@@ -244,12 +238,11 @@
                         <img src="img/mantenimiento_4716496.jpg" class="imgSlider">
                       </div>
                       <div class="col-md-6 paddingSlider text-center">
-                        <strong class="tipografiaPrecursive2 texto3d">Avanzado</strong>
+                        <p class="tipografiaPrecursive2 texto3d">Avanzado</p>
                         <br><br>
-                        <strong class="parrafo texto3d">Incluye: </strong>
-                        <br><br>
+
                         <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">Diseño o rediseño web.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">Diseño web.</li>
                           <li style="list-style:none;" class="parrafo texto3d">1 Dominio.</li>
                           <li style="list-style:none;" class="parrafo texto3d">Hospedaje web.</li>
                           <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
@@ -270,7 +263,6 @@
                   <i class="fa fa-chevron-circle-right fa-2x" aria-hidden="true"></i>
                 </a>
               </div>
-
     </section>
 
 
