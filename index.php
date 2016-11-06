@@ -196,58 +196,68 @@
                 <div class="carousel-inner" role="listbox">
 
                   <div class="item active">
-                    <div class="row">
-                      <div class="col-md-6 paddingSlider">
-                        <img src="img/desarrollo.jpg" class="imgSlider">
-                      </div>
-                      <div class="col-md-6 paddingSlider text-center">
-                        <p class="tipografiaPrecursive2 texto3d">Básico</p>
+                    <div class="row well">
+                      <div class="col-md-12 paddingSlider text-center">
+                        <p class="tipografiaPrecursive3 texto3d">Básico</p>
 
                         <br><br>
                         <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">Diseño web.</li>
-                          <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,400 (anual), incluye correos.</li>
+                          <br>
+                          <li style="list-style:none;" class="parrafo texto3d">DESARROLLO: $4,000  <br>
+                            Sitio web de una página con información esencial acerca de tu empresa, enlaces a redes sociales, diseño responsivo.</li>
+                            <br>
+                          <li style="list-style:none;" class="parrafo texto3d">MANTENIMIENTO Y SOPORTE: $1,200 (anual - opcional).</li>
                         </ul>
+                        <br>
                       </div>
-                    </div>
-                  </div>
 
-                  <div class="item">
-                    <div class="row">
-                      <div class="col-md-6 paddingSlider">
-                          <img src="img/red_2202475.jpg" class="imgSlider">
-                      </div>
-                      <div class="col-md-6 paddingSlider text-center centradoVertical">
-                        <p class="tipografiaPrecursive2 texto3d">Estandar</p>
-                        <br><br>
-
-                        <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">Diseño web.</li>
-                          <li style="list-style:none;" class="parrafo texto3d">1 Dominio.</li>
-                          <li style="list-style:none;" class="parrafo texto3d">Hospedaje web.</li>
-                          <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
-                        </ul>
-                      </div>
 
                     </div>
                   </div>
 
                   <div class="item">
-                    <div class="row">
-                      <div class="col-md-6 paddingSlider">
-                        <img src="img/mantenimiento_4716496.jpg" class="imgSlider">
-                      </div>
-                      <div class="col-md-6 paddingSlider text-center">
-                        <p class="tipografiaPrecursive2 texto3d">Avanzado</p>
+                    <div class="row well">
+
+                      <div class="col-md-12 paddingSlider text-center centradoVertical">
+                        <p class="tipografiaPrecursive3 texto3d">Estandar</p>
                         <br><br>
 
                         <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">Diseño web.</li>
-                          <li style="list-style:none;" class="parrafo texto3d">1 Dominio.</li>
-                          <li style="list-style:none;" class="parrafo texto3d">Hospedaje web.</li>
-                          <li style="list-style:none;" class="parrafo texto3d">Correos.</li>
-                          <li style="list-style:none;" class="parrafo texto3d">Bases de datos.</li>
+                          <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
+                          <br>
+                          <li style="list-style:none;" class="parrafo texto3d">DESARROLLO: $6,500   <br>
+                            Sitio web de 5 páginas, incluye inicio, información acerca de tu empresa, descripción de tus servicios, contacto, mapa de sitio, enlaces a redes sociales, coreos, diseño responsivo.
+                            </li>
+                            <br>
+                          <li style="list-style:none;" class="parrafo texto3d">MANTENIMIENTO Y SOPORTE: 1,200 (anual - opcional), los primeros 3 meses son gratis.
+                          </li>
                         </ul>
+                          <br>
+                      </div>
+
+
+                    </div>
+                  </div>
+
+                  <div class="item">
+                    <div class="row well">
+
+                      <div class="col-md-12 paddingSlider text-center">
+                        <p class="tipografiaPrecursive3 texto3d">Avanzado</p>
+                        <br><br>
+
+                        <ul>
+                          <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
+                          <br>
+                          <li style="list-style:none;" class="parrafo texto3d">DESARROLLO:  $8,500   <br>
+                            Sitio web de páginas ilimitadas con página de inicio, información acerca de tu empresa, descripción de tus servicios, contacto, mapa de sitio, enlaces a redes sociales, coreos, diseño responsivo.
+                            </li>
+                            <br>
+                          <li style="list-style:none;" class="parrafo texto3d">MANTENIMIENTO Y SOPORTE: Dependiendo del proyecto.
+                          </li>
+                        </ul>
+
                       </div>
                     </div>
 
@@ -256,10 +266,10 @@
                 </div>
 
                 <!-- Left and right controls -->
-                <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <a class="left carousel-control" href="#carouselPrecios" role="button" data-slide="prev">
                   <i class="fa fa-chevron-circle-left fa-2x" aria-hidden="true"></i>
                 </a>
-                <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <a class="right carousel-control" href="#carouselPrecios" role="button" data-slide="next">
                   <i class="fa fa-chevron-circle-right fa-2x" aria-hidden="true"></i>
                 </a>
               </div>

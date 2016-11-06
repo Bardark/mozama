@@ -27,6 +27,11 @@
   letter-spacing: 0.2em;
   font-size: 1.8em;
 }
+.tipografiaPrecursive3{
+  font-family: precursive,'Open Sans',serif;
+  letter-spacing: 0.2em;
+  font-size: 2.5em;
+}
 .transparenteClaro{
   background-color: rgba(236, 239, 241, 0.7);
   border-top: #eceff1;

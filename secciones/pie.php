@@ -17,6 +17,9 @@
       <p class="texto3d blanco paddInterno">
         &copy; 2016 MOZAMA
       </p>
+      <a href="mailto:contacto@mozama.com.mx"class="texto3d blanco paddInterno">
+        contacto@mozama.com.mx
+      </a>
     </div>
   </div>
   <br><br>
