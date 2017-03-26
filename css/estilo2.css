@@ -55,6 +55,14 @@
 	background-size:cover;
 	background-attachment: fixed;
 }
+.fondoApp{
+  background-image:url('../img/f3_11006643.jpg');
+  width: 100%;
+  height: auto;
+  background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
 .seccion1{
   /*background-color: #E91E63; */
   background-image:url('../img/f2_75719919.jpg');
@@ -327,6 +335,7 @@ article {
   padding: 4% 5% 4% 5%;
   height: 100%;
 }
+
 /*********/
 .tituloEntrada {
   -webkit-animation: deslizadoI 3s; /* Safari 4+ */
@@ -376,4 +385,13 @@ article {
 .logoNav{
   width: auto;
   height: auto;
+}
+/***********************************/
+.imgApp{
+  height: 15%;
+  width: 15%;
+}
+.imgTutorial{
+  height: 45%;
+  width: 45%;
 }
