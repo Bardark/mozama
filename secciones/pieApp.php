@@ -7,7 +7,7 @@
           </a>
 
           <div align="center" class="paddInterno">
-            <a href="" target="_blank" id="enlaceHuman">
+            <a href="../humans.txt" target="_blank" id="enlaceHuman">
               <img class="img-responsive" id="imgHuman" src="../img/humanstxt-transparent-color.png" >
             </a>
           </div>
@@ -26,8 +26,3 @@
 
   </div>
 </div>
-
-<script type="text/javascript">
-  var dominio = window.location.host;
-  document.getElementById('enlaceHuman').href = dominio+"/humans.txt";
-</script>
