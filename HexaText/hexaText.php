@@ -181,9 +181,20 @@
 
   </div>
 
+<?php include ("../secciones/pieApp.php"); ?>
 
+  <script src="../js/jquery.js"></script>
+  <script src="../js/bootstrap.min.js"></script>
+  <script src="../js/jquery.easing.min.js"></script>
+  <script type="text/javascript">
+    liApp = $('#liApp');
+    liApp.addClass("active");
+  </script>
 
 </body>
 
-<?php include ("../secciones/pieApp.php"); ?>
+
+
+
+
 </html>
