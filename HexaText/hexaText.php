@@ -83,6 +83,8 @@
         <div class="well">
 
           <ul class="parrafo text-justify" >
+                 <li> Ingresa a la aplicaci&oacuten y presiona sobre agregar nueva nota
+                 </li>
                  <li> Ingresar una clave de 16 caracteres como m&aacuteximo (ser&aacute utilizada posteriormente para el proceso de descifrado)
                  </li>
                  <li> El &aacuterea de texto permite copiar o ingresar culaquier tipo de texto a ser encriptado
@@ -104,7 +106,7 @@
 
 
                     <br><br>
-                 <h4 class="tipografiaPrecursive2">Copartir Texto Cifrado </h4>
+                 <h4 class="tipografiaPrecursive2">Compartir Texto Cifrado </h4>
                 <ul class="parrafo text-justify" >
                       <br>
                       <li>Pulsar sobre el primer icono del men&uacute superior derecho</li>
@@ -116,7 +118,7 @@
                   <h4 class="tipografiaPrecursive2">Guardar Texto Cifrado </h4>
                   <ul class="parrafo text-justify">
                       <br>
-                      <li>Pulsar sobre los tres puntos del men&uacute superior derecho</li>
+                      <li>Pulsar sobre el &iacutecono de guaradar del men&uacute superior derecho</li>
                       <li>Ingresar un t&iacutetulo para poder guardar el texto</li>
                       <li>Click en el bot&oacuten superior derecho de aceptar y se mostrar&acute
                        la lista de textos almacenados en el m&oacutevil
