@@ -76,7 +76,9 @@
                       <div class="col-md-6 paddingSlider text-center">
                         <strong class="tipografiaPrecursive2 texto3d">Desarrollo de Sitios Web</strong>
                         <br><br>
-      								  <p class="parrafo texto3d">Desarrollamos sitios web a la medida respondeiendo a las necesidades de tu organización.</p>
+      								  <p class="parrafo texto3d">
+                          Desarrollamos sitios web a la medida respondeiendo a las necesidades de tu organización.
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -205,9 +207,15 @@
                           <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,400 (anual), incluye correos.</li>
                           <br>
                           <li style="list-style:none;" class="parrafo texto3d">DESARROLLO: $4,000  <br>
-                            Sitio web de una página con información esencial acerca de tu empresa, enlaces a redes sociales, diseño responsivo.</li>
+                            <p>
+                              Sitio web de una página con información esencial acerca de tu empresa, enlaces a redes sociales, diseño responsivo.</li>
+                            </p>
                             <br>
-                          <li style="list-style:none;" class="parrafo texto3d">MANTENIMIENTO Y SOPORTE: $1,200 (anual - opcional).</li>
+                          <li style="list-style:none;">
+                            <p class="parrafo texto3d">
+                              MANTENIMIENTO Y SOPORTE: $1,200 (anual - opcional).
+                            </p>
+                          </li>
                         </ul>
                         <br>
                       </div>
@@ -227,10 +235,14 @@
                           <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
                           <br>
                           <li style="list-style:none;" class="parrafo texto3d">DESARROLLO: $6,500   <br>
-                            Sitio web de 5 páginas, incluye inicio, información acerca de tu empresa, descripción de tus servicios, contacto, mapa de sitio, enlaces a redes sociales, coreos, diseño responsivo.
+                            <p>
+                              Sitio web de 5 páginas, incluye inicio, información acerca de tu empresa, descripción de tus servicios, contacto, mapa de sitio, enlaces a redes sociales, coreos, diseño responsivo.
+                            </p>
                             </li>
                             <br>
-                          <li style="list-style:none;" class="parrafo texto3d">MANTENIMIENTO Y SOPORTE: 1,200 (anual - opcional), los primeros 3 meses son gratis.
+                          <li style="list-style:none;" >
+                            <p class="parrafo texto3d">MANTENIMIENTO Y SOPORTE: 1,200 (anual - opcional), los primeros 3 meses son gratis.
+                            </p>
                           </li>
                         </ul>
                           <br>
@@ -251,10 +263,15 @@
                           <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
                           <br>
                           <li style="list-style:none;" class="parrafo texto3d">DESARROLLO:  $8,500   <br>
-                            Sitio web de páginas ilimitadas con página de inicio, información acerca de tu empresa, descripción de tus servicios, contacto, mapa de sitio, enlaces a redes sociales, coreos, diseño responsivo.
+                              <p>
+                                Sitio web de páginas ilimitadas con página de inicio, información acerca de tu empresa, descripción de tus servicios, contacto, mapa de sitio, enlaces a redes sociales, coreos, diseño responsivo.
+                              </p>
                             </li>
                             <br>
-                          <li style="list-style:none;" class="parrafo texto3d">MANTENIMIENTO Y SOPORTE: Dependiendo del proyecto.
+                          <li style="list-style:none;" >
+                            <p class="parrafo texto3d">
+                              MANTENIMIENTO Y SOPORTE: Dependiendo del proyecto.
+                            </p>
                           </li>
                         </ul>
 
@@ -273,25 +290,75 @@
                   <i class="fa fa-chevron-circle-right fa-2x" aria-hidden="true"></i>
                 </a>
               </div>
+
+
     </section>
 
 
 
-<section id="portafolio" class="container content-section text-center seccion1">
-        <div class="row">
-            <div class="col-lg-12">
-	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
-	            	<i class="fa fa-suitcase"></i> Portafolio
-	            </h1>
 
-            </div>
-            <div class="col-md-4 animEscalarSimple">
-            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo2.png" class="imgPortafolio img-responsive sombra"></a>
 
-            </div>
+    <section id="app" class="container content-section text-center seccion2">
+      <br><br>
+      <div class="row" >
+        <div class="col-md-12 text-center">
+          <h1 class=" tipografiaPrecursive">Aplicaciones móviles</h1>
         </div>
-        <br><br>
+      </div>
+
+      <br><br><br>
+      <div class="row" class="paddingApp">
+        <div class="col-md-12 text-center">
+            <img src="./img/ic_launcher.png" class="imgApp" alt="">
+            <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
+        </div>
+      </div>
+      <br><br><br>
+
+      <div class="row">
+        <div class="col-md-6 ">
+          <div class="well">
+            <p class="parrafo text-justify">
+              <strong>HexaText</strong> es una aplicación de <strong>cifrado</strong> que tiene como objetivo principal, brindar confidencialidad y privacidad en la informaci&oacuten a los usuarios de dispositivos m&oacuteviles. Es decir, s&oacutelo permite el conocimiento de la informaci&oacuten a quien est&eacute autorizado.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6 ">
+          <div class="well">
+            <p class="parrafo text-justify">
+              Con <strong>HexaText</strong> podr&aacutes <strong>ocultar, guardar o compartir texto </strong> por medio de cualquier aplicaci&oacuten que procese texto (mensajería instantanea de texto, correo electrónico, entre otros).  Solo las personas que conozcan la clave utilizada al cifrar el texto y posean HexaText podr&aacuten descifrar el texto.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="well">
+            <p class="parrafo text-justify">
+              Para cubrir la vulnerabilidad de seguridad en la informaci&oacuten, <strong>HexaText</strong> implementa el algoritmo de cifrado sim&eacutetrico <strong>AES</strong> (Advanced Encryption Standard), compatible con el est&aacutendar propuesto por la <strong>NIST</strong> (National Institute of Standards and Technology), utilizando una clave de 128 bits (16 caracteres) definida por el usuario para cumplir el proceso de cifrado.
+            </p>
+          </div>
+
+        </div>
+      </div>
     </section>
+
+    <section id="portafolio" class="container content-section text-center seccion1">
+            <div class="row">
+                <div class="col-lg-12">
+    	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
+    	            	<i class="fa fa-suitcase"></i> Portafolio
+    	            </h1>
+
+                </div>
+                <div class="col-md-4 animEscalarSimple">
+                <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo2.png" class="imgPortafolio img-responsive sombra"></a>
+
+                </div>
+            </div>
+            <br><br>
+        </section>
 
     <section id="contacto" class="container content-section text-center seccion">
             <div class="row">
