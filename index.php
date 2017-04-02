@@ -42,6 +42,67 @@
     </center>
   </div>
 
+  <section id="portafolio" class="container content-section text-center seccion1">
+          <div class="row">
+              <div class="col-lg-12">
+  	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
+  	            	<i class="fa fa-suitcase"></i> Nosotros
+  	            </h1>
+
+              </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+
+              <div class="well">
+                <h3 class="texto3d tipografiaPrecursive2">
+                  <i class="fa fa-building" aria-hidden="true"></i>
+                  ¿Quienes somos?
+                </h3>
+                <br><br><br>
+                <p class="parrafo text-justify">
+                  La tecnología responsiva permite que tu sitio web se adapte a cualquier tamaño de pantalla, esto permite que tus clientes puedan visualizarla desde una pantalla de escritorio hasta en un celular.
+                </p>
+              </div>
+
+            </div>
+            <div class="col-md-4">
+              <div class="well">
+                <h3 class="texto3d tipografiaPrecursive2">
+                  <i class="fa fa-user" aria-hidden="true"></i>
+                  Misión
+                </h3>
+                <br><br><br>
+                <p class="parrafo text-justify">
+                  La tecnología responsiva permite que tu sitio web se adapte a cualquier tamaño de pantalla, esto permite que tus clientes puedan visualizarla desde una pantalla de escritorio hasta en un celular.
+                </p>
+              </div>
+
+              <h3>
+
+              </h3>
+
+
+           </div>
+
+           <div class="col-md-4">
+             <div class="well">
+               <h3 class="texto3d tipografiaPrecursive2">
+                 <i class="fa fa-star" aria-hidden="true"></i>
+                 Visón
+               </h3>
+               <br><br><br>
+               <p class="parrafo text-justify">
+                 La tecnología responsiva permite que tu sitio web se adapte a cualquier tamaño de pantalla, esto permite que tus clientes puedan visualizarla desde una pantalla de escritorio hasta en un celular.
+               </p>
+             </div>
+           </div>
+          </div>
+
+      </section>
+
+
+
 <section id="servicios" class="container content-section text-center seccion2">
 
 
