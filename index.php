@@ -61,7 +61,7 @@
                 </h3>
                 <br><br><br>
                 <p class="parrafo text-justify">
-                  La tecnología responsiva permite que tu sitio web se adapte a cualquier tamaño de pantalla, esto permite que tus clientes puedan visualizarla desde una pantalla de escritorio hasta en un celular.
+                  Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones y diseño web, brindando un servicio especializado para cada cliente dandole una solución, interezandonos en sus necesidades.
                 </p>
               </div>
 
@@ -74,8 +74,9 @@
                 </h3>
                 <br><br><br>
                 <p class="parrafo text-justify">
-                  La tecnología responsiva permite que tu sitio web se adapte a cualquier tamaño de pantalla, esto permite que tus clientes puedan visualizarla desde una pantalla de escritorio hasta en un celular.
+                  Proporcionar las tecnologias más inovadoras  a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
                 </p>
+                <br>
               </div>
 
               <h3>
@@ -93,7 +94,8 @@
                </h3>
                <br><br><br>
                <p class="parrafo text-justify">
-                 La tecnología responsiva permite que tu sitio web se adapte a cualquier tamaño de pantalla, esto permite que tus clientes puedan visualizarla desde una pantalla de escritorio hasta en un celular.
+                 Ser una organización en constante preparación en el campo de desarrollo de aplicaciones y sitios web con el objetivo de brindar servicios de calidad.
+                 <br><br><br>
                </p>
              </div>
            </div>

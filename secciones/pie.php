@@ -2,11 +2,7 @@
   <div class="container">
   <div class="row pieArriba">
 
-    <div class="col-md-4 col-sm-12 text-center">
-      <a href="mailto:contacto@mozama.com.mx"class="texto3d blanco paddInterno">
-        aviso de privacidad
-      </a>
-    </div>
+
 
     <div class="col-md-4 col-sm-12 text-center ">
           <a href="https://www.facebook.com/MOZAMAORG/" target="_blank" class="paddInterno">
@@ -21,15 +17,24 @@
 
     </div>
 
+    <div class="col-md-4 col-sm-12 text-center">
+
+
+      <a href="mailto:contacto@mozama.com.mx"class="texto3d blanco paddInterno">
+        contacto@mozama.com.mx
+      </a>
+    </div>
+
 
 
     <div class="col-md-4 col-sm-12 text-center">
       <p class="texto3d blanco paddInterno">
         &copy; 2016 MOZAMA
       </p>
-      <a href="mailto:contacto@mozama.com.mx"class="texto3d blanco paddInterno">
-        contacto@mozama.com.mx
+      <a href="aviso.php"class="texto3d blanco paddInterno">
+        aviso de privacidad
       </a>
+
     </div>
   </div>
   <br><br>
