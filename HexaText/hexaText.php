@@ -83,15 +83,15 @@
         <div class="well">
 
           <ul class="parrafo text-justify" >
-                 <li> Ingresa a la aplicaci&oacuten y presiona sobre agregar nueva nota
+                 <li> Ingresa a la aplicaci&oacuten y presiona sobre agregar nueva nota o sobre el botón flotante de más.
                  </li>
-                 <li> Ingresar una clave de 16 caracteres como m&aacuteximo (ser&aacute utilizada posteriormente para el proceso de descifrado)
+                 <li> Ingresar una clave de 16 caracteres como m&aacuteximo (ser&aacute utilizada posteriormente para el proceso de descifrado).
                  </li>
-                 <li> El &aacuterea de texto permite copiar o ingresar culaquier tipo de texto a ser encriptado
+                 <li> El &aacuterea de texto permite copiar o ingresar culaquier tipo de texto a ser cifrado.
                  </li>
-                 <li> Click en el bot&oacuten flotante de encriptar
+                 <li> Presionar en el bot&oacuten flotante de cifrar.
                  </li>
-                 <li> Aparecer&aacute el texto cifrado, con las opciones de compartir por medio de las redes sociales m&aacutes utilizadas o bien almacenarlo en el dispositivo m&oacutevil
+                 <li> Aparecer&aacute el texto cifrado, con las opciones de compartir por medio de las redes sociales m&aacutes utilizadas o bien almacenarlo en el dispositivo m&oacutevil.
                  </li><br>
           </ul>
 
@@ -109,8 +109,8 @@
                  <h4 class="tipografiaPrecursive2">Compartir Texto Cifrado </h4>
                 <ul class="parrafo text-justify" >
                       <br>
-                      <li>Pulsar sobre el primer icono del men&uacute superior derecho</li>
-                    <li>Seleccionar la aplicaci&oacuten por medio de la cual se compartir&aacute el texto cifrado</li>
+                      <li>Pulsar sobre el primer icono del men&uacute superior derecho.</li>
+                    <li>Seleccionar la aplicaci&oacuten por medio de la cual se compartir&aacute el texto cifrado.</li>
 
                 </ul>
                     <br>
@@ -118,9 +118,9 @@
                   <h4 class="tipografiaPrecursive2">Guardar Texto Cifrado </h4>
                   <ul class="parrafo text-justify">
                       <br>
-                      <li>Pulsar sobre el &iacutecono de guaradar del men&uacute superior derecho</li>
-                      <li>Ingresar un t&iacutetulo para poder guardar el texto</li>
-                      <li>Click en el bot&oacuten superior derecho de aceptar y se mostrar&acute
+                      <li>Pulsar sobre el &iacutecono de guaradar del men&uacute superior derecho.</li>
+                      <li>Ingresar un t&iacutetulo para poder guardar el texto.</li>
+                      <li>Presionar el bot&oacuten superior derecho de aceptar y se mostrar&aacute
                        la lista de textos almacenados en el m&oacutevil
                       </li><br>
                     </ul>
@@ -159,10 +159,10 @@
     <div class="row">
       <div class="col-md-12 well">
         <ul class="parrafo text-justify">
-            <li>HexaText descifrar&aacute cualquier texto previamente procesado con la misma aplicaci&oacuten, adem&aacutes de los textos almacenados en el m&oacutevil</li>
-          <li>Ingresar/copiar el texto en formato hexadecimal en el cuadro de texto</li>
-          <li>Ingresar la clave con la cual fue cifrado el texto</li>
-          <li>Pulsar en el bot&oacuten flotante inferior derecho y aparecer&aacute el texto descifrado</li><br>
+            <li>HexaText descifrar&aacute cualquier texto previamente procesado con la misma aplicaci&oacuten, adem&aacutes de los textos cifrados en el m&oacutevil</li>
+          <li>Ingresar/copiar el texto en formato hexadecimal en el cuadro de texto.</li>
+          <li>Ingresar la clave con la cual fue cifrado el texto.</li>
+          <li>Pulsar en el bot&oacuten flotante inferior derecho y aparecer&aacute el texto descifrado.</li><br>
 
         </ul>
         <div class="row">
