@@ -10,12 +10,12 @@
   <link rel="author" href="../humans.txt" />
   <link rel="icon" type="../image/png" href="./favicon.png"/>
 
-  <title>MOZAMA</title>
+  <title>MOZAMA | Apps</title>
 
   <link href="../css/bootstrap.min.css" rel="stylesheet">
   <link href="../css/estilo2.css" rel="stylesheet">
   <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
-
+  <link rel="alternate" hreflang="es-mx" href="http://www.mozama.com.mx/HexaText/hexaText.php">
 </head>
 
 <body data-spy="scroll" id="page-top" class="fondoApp">

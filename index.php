@@ -6,16 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <meta name="author" content="MOZAMA" />
+  <meta name="google-site-verification" content="cF8pLLyfj1UX10T6fPC82ZY7mFaycY17fsGEifD1I_g" />
   <link rel="author" href="humans.txt" />
   <link rel="icon" type="./image/png" href="./favicon.png"/>
 
-  <title>MOZAMA</title>
+  <title>MOZAMA | Inicio</title>
 
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/estilo2.css" rel="stylesheet">
   <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="alternate" hreflang="es-mx" href="http://www.mozama.com.mx/">
 
 
+<!--
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -26,6 +29,7 @@
   ga('send', 'pageview');
 
 </script>
+-->
 </head>
 
 <body data-spy="scroll" id="page-top">

@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /css/
+Disallow: /font-awesome/
+Disallow: /fonts/
+Disallow: /php/
+Disallow: /img/ORIGINALES/
+Disallow: /js/
+Disallow: /secciones/
+Sitemap: http://www.mozama.com.mx/sitemap.xml
