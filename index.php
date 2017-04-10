@@ -47,6 +47,69 @@
     </center>
   </div>
 
+  <section id="portafolio" class="container content-section text-center seccion1">
+          <div class="row">
+              <div class="col-lg-12">
+  	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
+  	            	<i class="fa fa-suitcase"></i> Nosotros
+  	            </h1>
+
+              </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+
+              <div class="well">
+                <h3 class="texto3d tipografiaPrecursive2">
+                  <i class="fa fa-building" aria-hidden="true"></i>
+                  ¿Quienes somos?
+                </h3>
+                <br><br><br>
+                <p class="parrafo text-justify">
+                  Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones y diseño web, brindando un servicio especializado para cada cliente dandole una solución, interezandonos en sus necesidades.
+                </p>
+              </div>
+
+            </div>
+            <div class="col-md-4">
+              <div class="well">
+                <h3 class="texto3d tipografiaPrecursive2">
+                  <i class="fa fa-user" aria-hidden="true"></i>
+                  Misión
+                </h3>
+                <br><br><br>
+                <p class="parrafo text-justify">
+                  Proporcionar las tecnologias más inovadoras  a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
+                </p>
+                <br>
+              </div>
+
+              <h3>
+
+              </h3>
+
+
+           </div>
+
+           <div class="col-md-4">
+             <div class="well">
+               <h3 class="texto3d tipografiaPrecursive2">
+                 <i class="fa fa-star" aria-hidden="true"></i>
+                 Visón
+               </h3>
+               <br><br><br>
+               <p class="parrafo text-justify">
+                 Ser una organización en constante preparación en el campo de desarrollo de aplicaciones y sitios web con el objetivo de brindar servicios de calidad.
+                 <br><br><br>
+               </p>
+             </div>
+           </div>
+          </div>
+
+      </section>
+
+
+
 <section id="servicios" class="container content-section text-center seccion2">
 
 
