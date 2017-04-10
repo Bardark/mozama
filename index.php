@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <meta name="author" content="MOZAMA" />
+  <meta name="keywords" content="desarrollo web, desarrollo móvil, sitio web, app, aplicación movil, software, mantenimiento, soporte, elaborar sitio web, hospedaje">
   <meta name="google-site-verification" content="cF8pLLyfj1UX10T6fPC82ZY7mFaycY17fsGEifD1I_g" />
   <link rel="author" href="humans.txt" />
   <link rel="icon" type="./image/png" href="./favicon.png"/>
@@ -39,7 +40,7 @@
 
 
   <div class="seccion0 fondo" id="inicio">
-    <center>  <img src="img/logo.png" class="img-responsive tituloEntrada">
+    <center>  <img src="img/logo-mozama.png" alt="logo mozama" class="img-responsive tituloEntrada">
       <a href="#servicios" class="page-scroll">
         <i class="fa fa-chevron-circle-down fa-3x blanco" aria-hidden="true"></i>
       </a>
@@ -75,7 +76,7 @@
                   <div class="item active">
                     <div class="row">
                       <div class="col-md-6 paddingSlider">
-                        <img src="img/desarrollo.jpg" class="imgSlider">
+                        <img src="img/desarrollo-resposive.jpg" alt="desarollo de sitios web responsivo" class="imgSlider">
                       </div>
                       <div class="col-md-6 paddingSlider text-center">
                         <strong class="tipografiaPrecursive2 texto3d">Desarrollo de Sitios Web</strong>
@@ -90,7 +91,7 @@
                   <div class="item">
                     <div class="row">
                       <div class="col-md-6 paddingSlider">
-                          <img src="img/red_2202475.jpg" class="imgSlider">
+                          <img src="img/cableado-red.jpg" alt="cableado de red" class="imgSlider">
                       </div>
                       <div class="col-md-6 paddingSlider text-center centradoVertical">
                         <strong class="tipografiaPrecursive2 texto3d">Redes </strong>
@@ -106,7 +107,7 @@
                   <div class="item">
                     <div class="row">
                       <div class="col-md-6 paddingSlider">
-                        <img src="img/mantenimiento_4716496.jpg" class="imgSlider">
+                        <img src="img/mantenimiento-computo.jpg" alt="manteniento de equipos de computo" class="imgSlider">
                       </div>
                       <div class="col-md-6 paddingSlider text-center">
                         <strong class="tipografiaPrecursive2 texto3d">Mantenimiento preventivo y correctivo</strong>
@@ -313,7 +314,7 @@
       <br><br><br>
       <div class="row" class="paddingApp">
         <div class="col-md-12 text-center">
-            <img src="./img/ic_launcher.png" class="imgApp" alt="">
+            <img src="./img/icono-aplicacion-movil.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
             <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
         </div>
       </div>
@@ -357,7 +358,7 @@
 
                 </div>
                 <div class="col-md-4 animEscalarSimple">
-                <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo2.png" class="imgPortafolio img-responsive sombra"></a>
+                <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo-cliente.png" alt="logo de cliente" class="imgPortafolio img-responsive sombra"></a>
 
                 </div>
             </div>

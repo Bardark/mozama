@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <meta name="author" content="MOZAMA" />
+  <meta name="keywords" content="cifrado, seguridad, dispositivo movil, android, desarrollo móvil, app, aplicación movil, software">
   <link rel="author" href="../humans.txt" />
   <link rel="icon" type="../image/png" href="./favicon.png"/>
 
@@ -34,7 +35,7 @@
     <br><br><br>
     <div class="row" class="paddingApp">
       <div class="col-md-12 text-center">
-          <img src="../img/ic_launcher.png" class="imgApp" alt="">
+          <img src="../img/icono-aplicacion-movil.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
           <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
       </div>
     </div>
@@ -97,10 +98,10 @@
 
             <div class="row">
                 <div class="col-md-6 text-center">
-                    <img src="imagenes/img001.png" class="imgTutorial">
+                    <img src="../img/img_app/app_nueva_nota_movil.png" alt="nueva nota en aplicacion movil" class="imgTutorial">
                 </div>
                 <div class="col-md-6 text-center">
-                    <img src="imagenes/img002.png" class="imgTutorial">
+                    <img src="../img/img_app/app_introduce_texto.png" alt="introducir texto en aplicacion movil" class="imgTutorial">
                 </div>
               </div>
 
@@ -128,13 +129,13 @@
 
                     <div class="row">
                       <div class="col-md-6 text-center">
-                          <img src="imagenes/img003.png" class="imgTutorial">
+                          <img src="../img/img_app/app_cifrar_texto.png" alt="cifrar texto aplicacion movil HexaText" class="imgTutorial">
                       </div>
                       <div class="col-md-6 text-center">
-                          <img src="imagenes/img004.png" class="imgTutorial">
+                          <img src="../img/img_app/app_guardar_texto_cifrado.png" alt="guadar texto cifrado en aplicacion movil HexaText" class="imgTutorial">
                       </div>
                       <div class="col-md-6 text-center">
-                          <img src="imagenes/img005.png" class="imgTutorial">
+                          <img src="../img/img_app/app_elemento_guardado.png" alt="elemento guardado en aplicacion movil HexaText" class="imgTutorial">
                       </div>
                     </div>
 
@@ -167,10 +168,10 @@
         </ul>
         <div class="row">
           <div class="col-md-6 text-center">
-              <img src="imagenes/img006.png" class="imgTutorial">&nbsp&nbsp&nbsp
+              <img src="../img/img_app/app_abrir_texto_cifrado.png" alt="abrir texto cifrado en aplicacion movil HExaText" class="imgTutorial">&nbsp&nbsp&nbsp
           </div>
           <div class="col-md-6 text-center">
-              <img src="imagenes/img007.png" class="imgTutorial">
+              <img src="../img/img_app/app_texto_descifrado.png" alt="testo descifrado en aplicacion movil HexaText" class="imgTutorial">
           </div>
         </div>
 
