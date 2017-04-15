@@ -16,6 +16,7 @@
   <link href="../css/bootstrap.min.css" rel="stylesheet">
   <link href="../css/estilo2.css" rel="stylesheet">
   <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/vacio.css" rel="stylesheet">   <!-- para cargar css de patalals mayores a 800 px -->
   <link rel="alternate" hreflang="es-mx" href="http://www.mozama.com.mx/HexaText/hexaText.php">
 </head>
 
@@ -192,6 +193,15 @@
   <script type="text/javascript">
     liApp = $('#liApp');
     liApp.addClass("active");
+
+    $(document).ready(function() {
+
+      if ((screen.width>=1024) && (screen.height>=700)) { //para altura en cuadros well de pantallas grandes se muestran de la misma altura
+
+        $("link[rel=stylesheet]:last").attr({href : "../css/pantallaMayor800.css"});
+      }
+    });
+
   </script>
 
 </body>

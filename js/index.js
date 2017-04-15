@@ -29,3 +29,11 @@ var liCount = $(".slidingDiv").size();
 			container.children(id).show();
 
 	});
+
+  $(document).ready(function() {
+
+    if ((screen.width>=1024) && (screen.height>=700)) { //para altura en cuadros well de pantallas grandes se muestran de la misma altura
+
+      $("link[rel=stylesheet]:last").attr({href : "css/pantallaMayor800.css"});
+    }
+  });

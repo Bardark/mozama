@@ -16,6 +16,7 @@
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/estilo2.css" rel="stylesheet">
   <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/vacio.css" rel="stylesheet">   <!-- para cargar css de patalals mayores a 800 px -->
   <link rel="alternate" hreflang="es-mx" href="http://www.mozama.com.mx/">
 
 
@@ -513,8 +514,8 @@
     });
 
     $('.carousel').carousel({
-      interval: 3000;
-      pause: "hover";
+      interval: 3000,
+      pause: "hover",
     })
     </script>
 
