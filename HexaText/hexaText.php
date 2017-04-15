@@ -43,14 +43,14 @@
 
     <div class="row">
       <div class="col-md-6 ">
-        <div class="well">
+        <div class="well altoWellServicio">
           <p class="parrafo text-justify">
             <strong>HexaText</strong> es una aplicación de <strong>cifrado</strong> para <strong>android</strong> que tiene como objetivo principal, brindar confidencialidad y privacidad en la informaci&oacuten a los usuarios de dispositivos m&oacuteviles. Es decir, s&oacutelo permite el conocimiento de la informaci&oacuten a quien est&eacute autorizado.
           </p>
         </div>
       </div>
       <div class="col-md-6 ">
-        <div class="well">
+        <div class="well altoWellServicio">
           <p class="parrafo text-justify">
             Con <strong>HexaText</strong> podr&aacutes <strong>ocultar, guardar o compartir texto </strong> por medio de cualquier aplicaci&oacuten que procese texto (mensajería instantanea de texto, correo electrónico, entre otros).  Solo las personas que conozcan la clave utilizada al cifrar el texto y posean HexaText podr&aacuten descifrar el texto.
           </p>

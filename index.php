@@ -132,11 +132,12 @@
                   <i class="fa fa-chevron-circle-right fa-2x" aria-hidden="true"></i>
                 </a>
               </div>
+
             <div class="row paddingSlider2">
               <strong class="text-center texto3d tipografiaPrecursive2">Desarrollo de Sitios Web</strong>
               <br><br><br>
               <div class="col-md-6">
-                <div class="well">
+                <div class="well altoWellServicio">
                   <h5 class="texto3d tipografiaPrecursive2">
                     <i class="fa fa-star" aria-hidden="true"></i>
                     Diseño y desarrollo único
@@ -149,7 +150,7 @@
               </div>
 
               <div class="col-md-6 ">
-                <div class="well">
+                <div class="well altoWellServicio">
                   <h3 class="texto3d tipografiaPrecursive2">
                     <i class="fa fa-mobile" aria-hidden="true"></i>
                     Diseño responsivo
@@ -162,7 +163,7 @@
               </div>
 
               <div class="col-md-6">
-                <div class="well">
+                <div class="well altoWellServicio">
                   <h3 class="texto3d tipografiaPrecursive2">
                     <i class="fa fa-tasks" aria-hidden="true"></i>
                     Hospedaje web y registro de dominio
@@ -177,7 +178,7 @@
               </div>
 
               <div class="col-md-6">
-                <div class="well">
+                <div class="well altoWellServicio">
                   <h3 class="texto3d tipografiaPrecursive2">
                     <i class="fa fa-cogs" aria-hidden="true"></i>
                     Mantenimiento de sitios web
@@ -207,11 +208,11 @@
                 <div class="carousel-inner" role="listbox">
 
                   <div class="item active">
-                    <div class="row well">
+                    <div class="row well altoWellPrecios">
                       <div class="col-md-12 paddingSlider text-center">
                         <p class="tipografiaPrecursive3 texto3d">Básico</p>
 
-                        <br><br>
+
                         <ul>
                           <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,400 (anual), incluye correos.</li>
                           <br>
@@ -234,11 +235,11 @@
                   </div>
 
                   <div class="item">
-                    <div class="row well">
+                    <div class="row well altoWellPrecios">
 
-                      <div class="col-md-12 paddingSlider text-center centradoVertical">
+                      <div class="col-md-12 paddingSlider text-center">
                         <p class="tipografiaPrecursive3 texto3d">Estandar</p>
-                        <br><br>
+
 
                         <ul>
                           <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
@@ -262,11 +263,10 @@
                   </div>
 
                   <div class="item">
-                    <div class="row well">
+                    <div class="row well altoWellPrecios">
 
                       <div class="col-md-12 paddingSlider text-center">
                         <p class="tipografiaPrecursive3 texto3d">Avanzado</p>
-                        <br><br>
 
                         <ul>
                           <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
@@ -315,45 +315,39 @@
             <div class="row">
               <div class="col-md-4">
 
-                <div class="well">
+                <div class="well altoWellNosotros">
                   <h3 class="texto3d tipografiaPrecursive2">
                     <i class="fa fa-building" aria-hidden="true"></i>
                     ¿Quienes somos?
                   </h3>
-                  <br><br><br>
+                  <br>
                   <p class="parrafo text-justify">
                     Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones moviles y sitios web, brindando un servicio especializado para cada cliente dandole una solución, interezandonos en sus necesidades.
                   </p>
                 </div>
-
               </div>
+
               <div class="col-md-4">
-                <div class="well">
+                <div class="well altoWellNosotros">
                   <h3 class="texto3d tipografiaPrecursive2">
                     <i class="fa fa-user" aria-hidden="true"></i>
                     Misión
                   </h3>
-                  <br><br><br>
+                  <br>
                   <p class="parrafo text-justify">
                     Proporcionar las tecnologias más inovadoras  a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
                   </p>
                   <br>
                 </div>
-
-                <h3>
-
-                </h3>
-
-
              </div>
 
              <div class="col-md-4">
-               <div class="well">
+               <div class="well altoWellNosotros">
                  <h3 class="texto3d tipografiaPrecursive2">
                    <i class="fa fa-star" aria-hidden="true"></i>
                    Visón
                  </h3>
-                 <br><br><br>
+                 <br>
                  <p class="parrafo text-justify">
                    Ser una organización en constante preparación en el campo de desarrollo de aplicaciones y sitios web con el objetivo de brindar servicios de calidad.
                    <br><br><br>
@@ -384,14 +378,15 @@
 
           <div class="row">
             <div class="col-md-6 ">
-              <div class="well">
+              <div class="well altoWellServicio">
                 <p class="parrafo text-justify">
                   <strong>HexaText</strong> es una aplicación de <strong>cifrado</strong> que tiene como objetivo principal, brindar confidencialidad y privacidad en la informaci&oacuten a los usuarios de dispositivos m&oacuteviles. Es decir, s&oacutelo permite el conocimiento de la informaci&oacuten a quien est&eacute autorizado.
                 </p>
               </div>
             </div>
+
             <div class="col-md-6 ">
-              <div class="well">
+              <div class="well altoWellServicio">
                 <p class="parrafo text-justify">
                   Con <strong>HexaText</strong> podr&aacutes <strong>ocultar, guardar o compartir texto </strong> por medio de cualquier aplicaci&oacuten que procese texto (mensajería instantanea de texto, correo electrónico, entre otros).  Solo las personas que conozcan la clave utilizada al cifrar el texto y posean HexaText podr&aacuten descifrar el texto.
                 </p>
