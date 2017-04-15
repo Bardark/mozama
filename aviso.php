@@ -19,7 +19,7 @@
 </head>
 
 <body data-spy="scroll" id="page-top" class="fondoApp">
-  <?php include ("./secciones/menuApp.php"); ?>
+  <?php include ("./secciones/menu.php"); ?>
 
 
   <div class="container" id="divHexa">
