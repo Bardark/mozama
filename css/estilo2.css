@@ -73,11 +73,21 @@
 	background-size:cover;
 	background-attachment: fixed;
 }
+.seccionNosotros{
+  /*background-color: #E91E63; */
+  background-image:url('../img/f2_75719919.jpg');
+  width: 100%;
+  height: auto;
+  padding: 3% 3% 5% 3%;
+  background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
 .seccion{
   background-image:url('../img/f5.jpg');
   width: 100%;
-  height: 100%;
-  padding: 3%;
+  height: auto;
+  padding: 3% 3% 5% 3%;
   background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
@@ -396,6 +406,7 @@ article {
   width: 45%;
   margin: 3%;
 }
+/*
 .altoWellServicio{
   height: 260px;
 }
@@ -405,3 +416,4 @@ article {
 .altoWellNosotros{
   height: 320px;
 }
+*/

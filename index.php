@@ -303,7 +303,7 @@
     </section>
 
 
-    <section id="nosotros" class="container content-section text-center seccion1">
+    <section id="nosotros" class="container content-section text-center seccionNosotros">
             <div class="row">
                 <div class="col-lg-12">
                   <h1 class="page-header texto3d tipografiaPrecursive cyan">
@@ -313,7 +313,7 @@
                 </div>
             </div>
             <div class="row">
-              <div class="col-md-4">
+              <div class="col-md-4 col-sm-12">
 
                 <div class="well altoWellNosotros">
                   <h3 class="texto3d tipografiaPrecursive2">
@@ -327,7 +327,7 @@
                 </div>
               </div>
 
-              <div class="col-md-4">
+              <div class="col-md-4 col-sm-12">
                 <div class="well altoWellNosotros">
                   <h3 class="texto3d tipografiaPrecursive2">
                     <i class="fa fa-user" aria-hidden="true"></i>
@@ -335,13 +335,13 @@
                   </h3>
                   <br>
                   <p class="parrafo text-justify">
-                    Proporcionar las tecnologías más innovadoras a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web. 
+                    Proporcionar las tecnologías más innovadoras a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
                   </p>
                   <br>
                 </div>
              </div>
 
-             <div class="col-md-4">
+             <div class="col-md-4 col-sm-12">
                <div class="well altoWellNosotros">
                  <h3 class="texto3d tipografiaPrecursive2">
                    <i class="fa fa-star" aria-hidden="true"></i>
@@ -354,6 +354,7 @@
                  </p>
                </div>
              </div>
+
             </div>
 
         </section>
