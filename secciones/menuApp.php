@@ -16,6 +16,7 @@
           <ul class="nav navbar-nav">
             <li><a class="page-scroll" href="../index.php#inicio">Inicio</a></li>
             <li><a class="page-scroll" href="../index.php#servicios">Servicios</a></li>
+            <li><a class="page-scroll" href="../index.php#nosotros">Nosotros</a></li>
             <li id ><a class="page-scroll" href="#divHexa">App</a></li>
   					<li><a class="page-scroll" href="../index.php#portafolio">Portafolio</a></li>
   					<li><a class="page-scroll" href="../index.php#contacto">Contacto</a></li>

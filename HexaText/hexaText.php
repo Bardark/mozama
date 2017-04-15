@@ -45,7 +45,7 @@
       <div class="col-md-6 ">
         <div class="well">
           <p class="parrafo text-justify">
-            <strong>HexaText</strong> es una aplicación de <strong>cifrado</strong> que tiene como objetivo principal, brindar confidencialidad y privacidad en la informaci&oacuten a los usuarios de dispositivos m&oacuteviles. Es decir, s&oacutelo permite el conocimiento de la informaci&oacuten a quien est&eacute autorizado.
+            <strong>HexaText</strong> es una aplicación de <strong>cifrado</strong> para <strong>android</strong> que tiene como objetivo principal, brindar confidencialidad y privacidad en la informaci&oacuten a los usuarios de dispositivos m&oacuteviles. Es decir, s&oacutelo permite el conocimiento de la informaci&oacuten a quien est&eacute autorizado.
           </p>
         </div>
       </div>

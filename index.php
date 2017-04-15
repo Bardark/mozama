@@ -47,66 +47,7 @@
     </center>
   </div>
 
-  <section id="portafolio" class="container content-section text-center seccion1">
-          <div class="row">
-              <div class="col-lg-12">
-  	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
-  	            	<i class="fa fa-suitcase"></i> Nosotros
-  	            </h1>
 
-              </div>
-          </div>
-          <div class="row">
-            <div class="col-md-4">
-
-              <div class="well">
-                <h3 class="texto3d tipografiaPrecursive2">
-                  <i class="fa fa-building" aria-hidden="true"></i>
-                  ¿Quienes somos?
-                </h3>
-                <br><br><br>
-                <p class="parrafo text-justify">
-                  Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones y diseño web, brindando un servicio especializado para cada cliente dandole una solución, interezandonos en sus necesidades.
-                </p>
-              </div>
-
-            </div>
-            <div class="col-md-4">
-              <div class="well">
-                <h3 class="texto3d tipografiaPrecursive2">
-                  <i class="fa fa-user" aria-hidden="true"></i>
-                  Misión
-                </h3>
-                <br><br><br>
-                <p class="parrafo text-justify">
-                  Proporcionar las tecnologias más inovadoras  a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
-                </p>
-                <br>
-              </div>
-
-              <h3>
-
-              </h3>
-
-
-           </div>
-
-           <div class="col-md-4">
-             <div class="well">
-               <h3 class="texto3d tipografiaPrecursive2">
-                 <i class="fa fa-star" aria-hidden="true"></i>
-                 Visón
-               </h3>
-               <br><br><br>
-               <p class="parrafo text-justify">
-                 Ser una organización en constante preparación en el campo de desarrollo de aplicaciones y sitios web con el objetivo de brindar servicios de calidad.
-                 <br><br><br>
-               </p>
-             </div>
-           </div>
-          </div>
-
-      </section>
 
 
 
@@ -359,76 +300,137 @@
                 </a>
               </div>
 
-
     </section>
 
 
-
-
-
-    <section id="app" class="container content-section text-center seccion2">
-      <br><br>
-      <div class="row" >
-        <div class="col-md-12 text-center">
-          <h1 class=" tipografiaPrecursive">Aplicaciones móviles</h1>
-        </div>
-      </div>
-
-      <br><br><br>
-      <div class="row" class="paddingApp">
-        <div class="col-md-12 text-center">
-            <img src="./img/icono-aplicacion-movil.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
-            <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
-        </div>
-      </div>
-      <br><br><br>
-
-      <div class="row">
-        <div class="col-md-6 ">
-          <div class="well">
-            <p class="parrafo text-justify">
-              <strong>HexaText</strong> es una aplicación de <strong>cifrado</strong> que tiene como objetivo principal, brindar confidencialidad y privacidad en la informaci&oacuten a los usuarios de dispositivos m&oacuteviles. Es decir, s&oacutelo permite el conocimiento de la informaci&oacuten a quien est&eacute autorizado.
-            </p>
-          </div>
-        </div>
-        <div class="col-md-6 ">
-          <div class="well">
-            <p class="parrafo text-justify">
-              Con <strong>HexaText</strong> podr&aacutes <strong>ocultar, guardar o compartir texto </strong> por medio de cualquier aplicaci&oacuten que procese texto (mensajería instantanea de texto, correo electrónico, entre otros).  Solo las personas que conozcan la clave utilizada al cifrar el texto y posean HexaText podr&aacuten descifrar el texto.
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-12">
-          <div class="well">
-            <p class="parrafo text-justify">
-              Para cubrir la vulnerabilidad de seguridad en la informaci&oacuten, <strong>HexaText</strong> implementa el algoritmo de cifrado sim&eacutetrico <strong>AES</strong> (Advanced Encryption Standard), compatible con el est&aacutendar propuesto por la <strong>NIST</strong> (National Institute of Standards and Technology), utilizando una clave de 128 bits (16 caracteres) definida por el usuario para cumplir el proceso de cifrado.
-            </p>
-          </div>
-
-        </div>
-      </div>
-    </section>
-
-    <section id="portafolio" class="container content-section text-center seccion1">
+    <section id="nosotros" class="container content-section text-center seccion1">
             <div class="row">
                 <div class="col-lg-12">
-    	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
-    	            	<i class="fa fa-suitcase"></i> Portafolio
-    	            </h1>
+                  <h1 class="page-header texto3d tipografiaPrecursive cyan">
+                    <i class="fa fa-suitcase"></i> Nosotros
+                  </h1>
 
                 </div>
-                <div class="col-md-4 animEscalarSimple">
-                <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo-cliente.png" alt="logo de cliente" class="imgPortafolio img-responsive sombra"></a>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
 
+                <div class="well">
+                  <h3 class="texto3d tipografiaPrecursive2">
+                    <i class="fa fa-building" aria-hidden="true"></i>
+                    ¿Quienes somos?
+                  </h3>
+                  <br><br><br>
+                  <p class="parrafo text-justify">
+                    Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones moviles y sitios web, brindando un servicio especializado para cada cliente dandole una solución, interezandonos en sus necesidades.
+                  </p>
                 </div>
+
+              </div>
+              <div class="col-md-4">
+                <div class="well">
+                  <h3 class="texto3d tipografiaPrecursive2">
+                    <i class="fa fa-user" aria-hidden="true"></i>
+                    Misión
+                  </h3>
+                  <br><br><br>
+                  <p class="parrafo text-justify">
+                    Proporcionar las tecnologias más inovadoras  a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
+                  </p>
+                  <br>
+                </div>
+
+                <h3>
+
+                </h3>
+
+
+             </div>
+
+             <div class="col-md-4">
+               <div class="well">
+                 <h3 class="texto3d tipografiaPrecursive2">
+                   <i class="fa fa-star" aria-hidden="true"></i>
+                   Visón
+                 </h3>
+                 <br><br><br>
+                 <p class="parrafo text-justify">
+                   Ser una organización en constante preparación en el campo de desarrollo de aplicaciones y sitios web con el objetivo de brindar servicios de calidad.
+                   <br><br><br>
+                 </p>
+               </div>
+             </div>
+            </div>
+
+        </section>
+
+
+        <section id="app" class="container content-section text-center seccion2">
+          <br><br>
+          <div class="row" >
+            <div class="col-md-12 text-center">
+              <h1 class=" tipografiaPrecursive"> <i class="fa fa-mobile" aria-hidden="true"></i> Aplicaciones móviles</h1>
+            </div>
+          </div>
+
+          <br><br><br>
+          <div class="row" class="paddingApp">
+            <div class="col-md-12 text-center">
+                <img src="./img/icono-aplicacion-movil.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
+                <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
+            </div>
+          </div>
+          <br><br><br>
+
+          <div class="row">
+            <div class="col-md-6 ">
+              <div class="well">
+                <p class="parrafo text-justify">
+                  <strong>HexaText</strong> es una aplicación de <strong>cifrado</strong> que tiene como objetivo principal, brindar confidencialidad y privacidad en la informaci&oacuten a los usuarios de dispositivos m&oacuteviles. Es decir, s&oacutelo permite el conocimiento de la informaci&oacuten a quien est&eacute autorizado.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6 ">
+              <div class="well">
+                <p class="parrafo text-justify">
+                  Con <strong>HexaText</strong> podr&aacutes <strong>ocultar, guardar o compartir texto </strong> por medio de cualquier aplicaci&oacuten que procese texto (mensajería instantanea de texto, correo electrónico, entre otros).  Solo las personas que conozcan la clave utilizada al cifrar el texto y posean HexaText podr&aacuten descifrar el texto.
+                </p>
+              </div>
+            </div>
+          </div>
+          <br>
+          <div class="row">
+            <div class="col-md-12">
+
+              <a href="./HexaText/hexaText.php"><button type="button" name="button" class="btn-lg btn-success">
+                <i class="fa fa-mobile" aria-hidden="true"></i> Leer más
+              </button></a>
+
+            </div>
+          </div>
+        </section>
+
+
+
+      <section id="portafolio" class="container content-section text-center seccion1">
+              <div class="row">
+                  <div class="col-lg-12">
+      	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
+      	            	<i class="fa fa-suitcase"></i> Portafolio
+      	            </h1>
+
+                  </div>
+                  <div class="col-md-4 animEscalarSimple">
+                  <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo-cliente.png" alt="logo de cliente" class="imgPortafolio img-responsive sombra"></a>
+
+              </div>
             </div>
             <br><br>
         </section>
 
-    <section id="contacto" class="container content-section text-center seccion">
+
+
+        <section id="contacto" class="container content-section text-center seccion">
             <div class="row">
 
                <div class="row">
@@ -468,9 +470,24 @@
                               </div>
                             </div>
 
-                            <div class="col-md-8 col-md-offset-2">
-                              <button id="btnEnviar" type="submit" value="enviar" onclick="window.location.reload()" class="btn btn-success btn-block sombra"><i class="fa fa-paper-plane "></i> Enviar Mensaje</button>
+                            <br>
+                            <div class="row">
+                              <div class="col-md-12" >
+                                <p class="texto3d blanco ">
+                                  Al presionar el botón de Enviar Mensaje usted estará de acuerdo con nuestro
+                                  <a href="aviso.php" class="texto3d blanco ">
+                                    Aviso de privacidad
+                                  </a>
+                                </p>
+                              </div>
                             </div>
+                            <br>
+
+                            <div class="col-md-8 col-md-offset-2">
+                              <button id="btnEnviar" type="submit" value="enviar" onclick="window.location.reload()" class="btn btn-success btn-lg sombra"><i class="fa fa-paper-plane "></i> Enviar Mensaje</button>
+                            </div>
+
+
 
                             <br><br><br><br>
 
@@ -480,7 +497,9 @@
             </div>
         </section>
 
+
 <?php include ("./secciones/pie.php"); ?>
+
 
   <script src="js/jquery.js"></script>
   <script src="js/bootstrap.min.js"></script>

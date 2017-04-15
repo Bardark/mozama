@@ -32,7 +32,7 @@
         &copy; 2016 MOZAMA
       </p>
       <a href="aviso.php"class="texto3d blanco paddInterno">
-        aviso de privacidad
+        Aviso de privacidad
       </a>
 
     </div>
