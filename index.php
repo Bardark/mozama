@@ -322,7 +322,7 @@
                   </h3>
                   <br>
                   <p class="parrafo text-justify">
-                    Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones moviles y sitios web, brindando un servicio especializado para cada cliente dandole una solución, interezandonos en sus necesidades.
+                    Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones móviles y sitios web, brindando un servicio especializado para cada cliente dándole una solución, siempre poniendo prioridad en sus necesidades.
                   </p>
                 </div>
               </div>
@@ -335,7 +335,7 @@
                   </h3>
                   <br>
                   <p class="parrafo text-justify">
-                    Proporcionar las tecnologias más inovadoras  a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
+                    Proporcionar las tecnologías más innovadoras a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web. 
                   </p>
                   <br>
                 </div>
