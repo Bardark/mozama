@@ -468,7 +468,7 @@
                             </div>
 
                             <br>
-                            <div class="row">
+                        <!--      <div class="row">
                               <div class="col-md-12" >
                                 <p class="texto3d blanco ">
                                   Al presionar el botón de Enviar Mensaje usted estará de acuerdo con nuestro
@@ -479,7 +479,7 @@
                               </div>
                             </div>
                             <br>
-
+-->
                             <div class="col-md-8 col-md-offset-2">
                               <button id="btnEnviar" type="submit" value="enviar" onclick="window.location.reload()" class="btn btn-success btn-lg sombra"><i class="fa fa-paper-plane "></i> Enviar Mensaje</button>
                             </div>
