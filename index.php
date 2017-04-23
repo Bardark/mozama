@@ -10,7 +10,7 @@
   <meta name="google-site-verification" content="cF8pLLyfj1UX10T6fPC82ZY7mFaycY17fsGEifD1I_g" />
   <link rel="author" href="humans.txt" />
   <link rel="icon" type="./image/png" href="./favicon.png"/>
-  <meta name="description" content="Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones moviles y sitios web, brindando un servicio especializado para cada cliente dandole una solución" />
+  <meta name="description" content="Somos una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones moviles y sitios web, brindando un servicio especializado para cada cliente dandole una solución a sus necesidades tecnológicas." />
 
   <title>MOZAMA | Diseño web, Soporte técnico y App´s</title>
 
@@ -519,6 +519,16 @@
       pause: "hover",
     })
     </script>
+
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.9";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 
 
 </body>

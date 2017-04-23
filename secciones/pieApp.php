@@ -8,6 +8,11 @@
           <a href="https://www.facebook.com/MOZAMAORG/" target="_blank" class="paddInterno">
               <i class="fa fa-facebook-square fa-3x texto3d" aria-hidden="true"></i>
           </a>
+          <br><br>
+
+          <div align="center" class="paddInterno well">
+            <div class="fb-like" data-href="https://www.facebook.com/MOZAMAORG/" data-width="150" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
+          </div>
 
           <div align="center" class="paddInterno">
             <a href="../humans.txt" target="_blank">
@@ -21,6 +26,7 @@
 
 
       <a href="mailto:contacto@mozama.com.mx"class="texto3d blanco paddInterno">
+        <i class="fa fa-envelope" aria-hidden="true"></i>
         contacto@mozama.com.mx
       </a>
     </div>
@@ -41,3 +47,12 @@
 
   </div>
 </div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
