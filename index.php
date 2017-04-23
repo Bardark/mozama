@@ -10,9 +10,9 @@
   <meta name="google-site-verification" content="cF8pLLyfj1UX10T6fPC82ZY7mFaycY17fsGEifD1I_g" />
   <link rel="author" href="humans.txt" />
   <link rel="icon" type="./image/png" href="./favicon.png"/>
-  <meta name="description" content="Somos una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones moviles y sitios web, brindando un servicio especializado para cada cliente dandole una solución a sus necesidades tecnológicas." />
+  <meta name="description" content="Somos una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones moviles y sitios web, brindando un servicio especializado para cada cliente." />
 
-  <title>MOZAMA | Diseño web, Soporte técnico y App´s</title>
+  <title>MOZAMA | Desarrollo web, Aplicaciones móvil, Soporte técnico</title>
 
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/estilo2.css" rel="stylesheet">

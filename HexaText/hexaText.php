@@ -11,13 +11,16 @@
   <link rel="author" href="../humans.txt" />
   <link rel="icon" type="../image/png" href="./favicon.png"/>
 
-  <title>MOZAMA | Apps</title>
+  <meta name="description" content="Catalogo de aplicaciones para dispositivos móviles con Android desarrollados por Mozama." />
+  <title>MOZAMA | Aplicaciones moviles</title>
 
   <link href="../css/bootstrap.min.css" rel="stylesheet">
   <link href="../css/estilo2.css" rel="stylesheet">
   <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="css/vacio.css" rel="stylesheet">   <!-- para cargar css de patalals mayores a 800 px -->
   <link rel="alternate" hreflang="es-mx" href="http://www.mozama.com.mx/HexaText/hexaText.php">
+  <link rel="apple-touch-icon" sizes="120x120" href="../img/apple-touch-icon-120x120-precomposed.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="../img/apple-touch-icon-152x152-precomposed.png" />
 </head>
 
 <body data-spy="scroll" id="page-top" class="fondoApp">
