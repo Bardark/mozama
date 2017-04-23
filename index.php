@@ -10,14 +10,17 @@
   <meta name="google-site-verification" content="cF8pLLyfj1UX10T6fPC82ZY7mFaycY17fsGEifD1I_g" />
   <link rel="author" href="humans.txt" />
   <link rel="icon" type="./image/png" href="./favicon.png"/>
+  <meta name="description" content="Mozama es una organización que desde 2015 se ha dedicado al desarrollo de aplicaciones moviles y sitios web, brindando un servicio especializado para cada cliente dandole una solución" />
 
-  <title>MOZAMA | Inicio</title>
+  <title>MOZAMA | Diseño web, Soporte técnico y App´s</title>
 
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/estilo2.css" rel="stylesheet">
   <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="css/vacio.css" rel="stylesheet">   <!-- para cargar css de patalals mayores a 800 px -->
   <link rel="alternate" hreflang="es-mx" href="http://www.mozama.com.mx/">
+  <link rel="apple-touch-icon" sizes="120x120" href="img/apple-touch-icon-120x120-precomposed.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="img/apple-touch-icon-152x152-precomposed.png" />
 
 
 <!--
@@ -483,8 +486,6 @@
                             <div class="col-md-8 col-md-offset-2">
                               <button id="btnEnviar" type="submit" value="enviar" onclick="window.location.reload()" class="btn btn-success btn-lg sombra"><i class="fa fa-paper-plane "></i> Enviar Mensaje</button>
                             </div>
-
-
 
                             <br><br><br><br>
 
