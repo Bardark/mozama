@@ -360,7 +360,7 @@
                  </p>
                </div>
              </div>
-               <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMOZAMAORG%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
           </div>
 
         </section>
@@ -433,67 +433,71 @@
 
 
         <section id="contacto" class="container content-section text-center seccion">
+          <div class="row">
+           <div class="col-lg-12">
+             <h1 class="page-header texto3d tipografiaPrecursive verde">
+               <i class="fa fa-comments"></i> Contactenos
+             </h1>
+             <br>
+            </div>
+           </div>
+
+
             <div class="row">
+              <div class="col-md-8">
 
-               <div class="row">
-                <div class="col-lg-12">
+                       <form name="enviarMensaje" action="enviar.php" method="post" id="enviarMensaje">
+                             <div class="control-group form-group">
+                               <div class="input-group sombra">
+                                 <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                                   <input id="nombreContacto" name="nombreContacto" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50" required>
+                               </div>
+                               <!-- <p class="text-danger" id="spnNombre"> </p>  -->
+                             </div>
 
-                  <h1 class="page-header texto3d tipografiaPrecursive verde">
-                    <i class="fa fa-comments"></i> Contactenos
-                  </h1>
-                  <br>
-                </div>
+                             <div class="control-group form-group">
+                               <div class="input-group sombra">
+                                 <span class="input-group-addon glyphicon"><i class="fa fa-at"></i></span>
+                                 <input id="correoContacto" name="correoContacto" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50" required>
+                                 <!-- <p class="text-danger" id="spnCorreo"> </p>  -->
+                               </div>
+                             </div>
+                             <div class="control-group form-group sombra">
+                               <div class="controls">
+                                 <textarea id="message" name="mensajeContacto" rows="8" cols="100" class="form-control grisObscuro"  maxlength="900" style="resize:none" placeholder="*Asunto y Mensaje" required></textarea>
+                                 <!--  <p class="text-danger" id="spnMensaje"> </p> -->
+                               </div>
+                             </div>
 
-                </div>
+                             <br>
+                         <!--      <div class="row">
+                               <div class="col-md-12" >
+                                 <p class="texto3d blanco ">
+                                   Al presionar el botón de Enviar Mensaje usted estará de acuerdo con nuestro
+                                   <a href="aviso.php" class="texto3d blanco ">
+                                     Aviso de privacidad
+                                   </a>
+                                 </p>
+                               </div>
+                             </div>
+                             <br>
+ -->
+                             <div class="col-md-8 col-md-offset-2">
+                               <button id="btnEnviar" type="submit" value="enviar" onclick="window.location.reload()" class="btn btn-success btn-lg sombra"><i class="fa fa-paper-plane "></i> Enviar Mensaje</button>
+                             </div>
 
-                <div class="col-lg-8 col-lg-offset-2">
+                             <br><br><br><br>
 
-                    <br>
-                    <form name="enviarMensaje" action="enviar.php" method="post" id="enviarMensaje">
-                            <div class="control-group form-group">
-                              <div class="input-group sombra">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                  <input id="nombreContacto" name="nombreContacto" pattern="[a-zA-Z\sáéíóúÁÉÍÓÚñÑ]+" type="text" class="form-control grisObscuro"  placeholder="*Nombre" maxlength="50" required>
-                              </div>
-                              <!-- <p class="text-danger" id="spnNombre"> </p>  -->
-                            </div>
+                           </form>
 
-                            <div class="control-group form-group">
-                              <div class="input-group sombra">
-                                <span class="input-group-addon glyphicon"><i class="fa fa-at"></i></span>
-                                <input id="correoContacto" name="correoContacto" type="email" class="form-control grisObscuro"  placeholder="*Correo Electrónico" maxlength="50" required>
-                                <!-- <p class="text-danger" id="spnCorreo"> </p>  -->
-                              </div>
-                            </div>
-                            <div class="control-group form-group sombra">
-                              <div class="controls">
-                                <textarea id="message" name="mensajeContacto" rows="8" cols="100" class="form-control grisObscuro"  maxlength="900" style="resize:none" placeholder="*Asunto y Mensaje" required></textarea>
-                                <!--  <p class="text-danger" id="spnMensaje"> </p> -->
-                              </div>
-                            </div>
 
-                            <br>
-                        <!--      <div class="row">
-                              <div class="col-md-12" >
-                                <p class="texto3d blanco ">
-                                  Al presionar el botón de Enviar Mensaje usted estará de acuerdo con nuestro
-                                  <a href="aviso.php" class="texto3d blanco ">
-                                    Aviso de privacidad
-                                  </a>
-                                </p>
-                              </div>
-                            </div>
-                            <br>
--->
-                            <div class="col-md-8 col-md-offset-2">
-                              <button id="btnEnviar" type="submit" value="enviar" onclick="window.location.reload()" class="btn btn-success btn-lg sombra"><i class="fa fa-paper-plane "></i> Enviar Mensaje</button>
-                            </div>
 
-                            <br><br><br><br>
+              </div>
+              <div class="col-md-4">
+                <div class="fb-page" data-href="https://www.facebook.com/MOZAMAORG/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/MOZAMAORG/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MOZAMAORG/">Mozama</a></blockquote></div>
+              </div>
 
-                          </form>
 
-                </div>
             </div>
         </section>
 
