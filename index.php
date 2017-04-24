@@ -79,7 +79,7 @@
                 </ol>
 
                 <!-- Wrapper for slides -->
-                <div class="carousel-inner" role="listbox">
+                <div class="carousel-inner" role="listbox" onmouseover="this.stop();">
 
                   <div class="item active">
                     <div class="row">
@@ -105,7 +105,8 @@
                         <strong class="tipografiaPrecursive2 texto3d">Redes </strong>
                         <br><br>
                         <p class="parrafo texto3d">
-                          Ofrecemos el servicio de implementación de redes y cableado estructurado básico.
+                          Ofrecemos el servicio de implementación de redes y cableado estructurado básico, así como la amplificación
+                          la cobertura de tu señal de wifi, tambíen aumentamos la seguridad de tu modem ante intrusos.
                         </p>
                       </div>
 
@@ -120,7 +121,8 @@
                       <div class="col-md-6 paddingSlider text-center">
                         <strong class="tipografiaPrecursive2 texto3d">Mantenimiento preventivo y correctivo</strong>
                         <br><br>
-        								<p class="parrafo texto3d">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo.</p>
+        								<p class="parrafo texto3d">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo, instalación de software,
+                          limpieza de virus, optimización de equipos, adqusición de hardware para un mejor rendimiento.</p>
                       </div>
                     </div>
 
@@ -200,7 +202,7 @@
 
 
 
-            <div id="carouselPrecios" class="carousel slide paddingSlider2" data-ride="carousel">
+            <div id="carouselPrecios" class="carousel slide paddingSlider2" data-ride="carousel" onmouseover="this.stop();">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -358,8 +360,12 @@
                  </p>
                </div>
              </div>
-
-            </div>
+             <div class="col-md-12 container">
+               <div align="center">
+                 <div class="fb-like" data-href="https://www.facebook.com/MOZAMAORG/" data-width="150" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
+               </div>
+             </div>
+          </div>
 
         </section>
 
