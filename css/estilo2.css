@@ -21,6 +21,11 @@
   letter-spacing: 0.2em;
   font-size: 3em;
 }
+.tipografiaPrecursive2{
+  font-family: precursive,'Open Sans',serif;
+  letter-spacing: 0.2em;
+
+}
 
 .tipografiaPrecursive2{
   font-family: precursive,'Open Sans',serif;
@@ -347,7 +352,7 @@ article {
 }
 
 .well{
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.8);
   box-shadow: 0 5px 5px 3px rgba(0, 0, 0, 0.25);
   border: none;
   padding: 4% 5% 4% 5%;
