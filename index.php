@@ -75,7 +75,7 @@
                 <ol class="carousel-indicators">
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                   <li data-target="#myCarousel" data-slide-to="1"></li>
-                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                  
                 </ol>
 
                 <!-- Wrapper for slides -->
@@ -96,22 +96,6 @@
                     </div>
                   </div>
 
-                  <div class="item">
-                    <div class="row">
-                      <div class="col-md-6 paddingSlider">
-                          <img src="img/cableado-red.jpg" alt="cableado de red" class="imgSlider">
-                      </div>
-                      <div class="col-md-6 paddingSlider text-center centradoVertical">
-                        <strong class="tipografiaPrecursive2 texto3d">Redes </strong>
-                        <br><br>
-                        <p class="parrafo texto3d">
-                          Ofrecemos el servicio de implementación de redes y cableado estructurado básico, así como la amplificación
-                          la cobertura de tu señal de wifi, tambíen aumentamos la seguridad de tu modem ante intrusos.
-                        </p>
-                      </div>
-
-                    </div>
-                  </div>
 
                   <div class="item">
                     <div class="row">
