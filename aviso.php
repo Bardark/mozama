@@ -31,7 +31,7 @@
         <h1 class="  text-center">Aviso de privacidad</h1>
         <br>
 
-        <p class="text-justify">René Hernández Zamora, con domicilio en Av. Centenario 7, San Francisco Mazapa, Teotihuacán, México, C.P. 55830, es el Responsable del tratamiento de sus datos personales, por lo que pone a su disposición el presente documento en el cabal cumplimiento de sus obligaciones legales.
+        <p class="text-justify">René Hernández Zamora, con domicilio en Av. Centenario 7, San Francisco Mazapa, Teotihuacán, México, C.P. 55820, es el Responsable del tratamiento de sus datos personales, por lo que pone a su disposición el presente documento en el cabal cumplimiento de sus obligaciones legales.
         </p>
 
         <h3 class="">
