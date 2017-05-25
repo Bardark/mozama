@@ -21,6 +21,14 @@
   <link rel="alternate" hreflang="es-mx" href="http://www.mozama.com.mx/HexaText/hexaText.php">
   <link rel="apple-touch-icon" sizes="120x120" href="../img/apple-touch-icon-120x120-precomposed.png" />
   <link rel="apple-touch-icon" sizes="152x152" href="../img/apple-touch-icon-152x152-precomposed.png" />
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-6400425881601749",
+      enable_page_level_ads: true
+    });
+  </script>
 </head>
 
 <body data-spy="scroll" id="page-top" class="fondoApp">
@@ -43,6 +51,26 @@
           <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
       </div>
     </div>
+    <div class="row">
+
+      <div class="col-md-6 text-center">
+
+        <a href="https://play.google.com/store/apps/details?id=mx.com.mozama.hexatext.pro" target="blanck">
+          <img src="../img/google-play-badge.png" alt="icono de aplicacion movil HexaText" class="imgApp2" >
+        </a>
+          <h2 class="">HexaText</h2>
+      </div>
+
+      <div class="col-md-6 text-center">
+
+
+        <a href="https://play.google.com/store/apps/details?id=mx.com.mozama.hexatext" target="blanck">
+          <img src="../img/google-play-badge.png" alt="icono de aplicacion movil HexaText" class="imgApp2" >
+        </a>
+        <h2 class="">HexaText-Free</h2>
+        <p>Versión gratuita</p>
+      </div>
+</div>
     <br><br><br>
 
     <div class="row">

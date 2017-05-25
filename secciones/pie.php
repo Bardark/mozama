@@ -21,6 +21,11 @@
           <i class="fa fa-envelope" aria-hidden="true"></i>
           contacto@mozama.com.mx
         </a>
+        <div class="paddInterno ">
+          <a href="https://play.google.com/store/apps/dev?id=6969660804547788680" target="blanck">
+            <img src="./img/google-play-badge.png" alt="icono de google play" class="imgApp2" >
+          </a>
+        </div>        
       </div>
 
       <div class="col-md-4 col-sm-12 text-center espacioPie">

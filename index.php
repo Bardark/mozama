@@ -75,7 +75,7 @@
                 <ol class="carousel-indicators">
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                   <li data-target="#myCarousel" data-slide-to="1"></li>
-                  
+
                 </ol>
 
                 <!-- Wrapper for slides -->
@@ -359,10 +359,14 @@
           </div>
 
           <br><br><br>
+
           <div class="row" class="paddingApp">
             <div class="col-md-12 text-center">
                 <img src="./img/icono-aplicacion-movil.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
                 <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
+                <a href="https://play.google.com/store/apps/details?id=mx.com.mozama.hexatext.pro" target="blanck">
+                  <img src="./img/google-play-badge.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
+                </a>
             </div>
           </div>
           <br><br><br>
