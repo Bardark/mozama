@@ -33,7 +33,7 @@
     ga('send', 'pageview');
 
   </script>
-  
+
 </head>
 
 <body data-spy="scroll" id="page-top">
@@ -402,20 +402,21 @@
 
 
       <section id="portafolio" class="container content-section text-center seccion1">
-              <div class="row">
-                  <div class="col-lg-12">
-      	            <h1 class="page-header texto3d tipografiaPrecursive cyan">
-      	            	<i class="fa fa-suitcase"></i> Portafolio
-      	            </h1>
-
-                  </div>
-                  <div class="col-md-4 animEscalarSimple">
-                  <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo-cliente.png" alt="logo de cliente" class="imgPortafolio img-responsive sombra"></a>
-
-              </div>
-            </div>
-            <br><br>
-        </section>
+        <div class="row">
+          <div class="col-lg-12">
+            <h1 class="page-header texto3d tipografiaPrecursive cyan">
+            	<i class="fa fa-suitcase"></i> Portafolio
+            </h1>
+          </div>
+          <div class="col-md-4 animEscalarSimple">
+            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo-cliente.png" alt="logo de cliente" class="imgPortafolio img-responsive sombra"></a>
+          </div>
+          <div class="col-md-4 animEscalarSimple">
+            <a href="http://www.eventosquehacenhistoria.com/" target=blanck><img src="img/logo-cliente-2.png" alt="logo de cliente 2" class="imgPortafolio img-responsive sombra"></a>
+          </div>
+      </div>
+      <br><br>
+    </section>
 
 
 
