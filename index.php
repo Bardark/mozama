@@ -394,7 +394,7 @@
           <div class="row">
             <div class="col-md-12">
 
-              <a href="./HexaText/hexaText.php"><button type="button" name="button" class="btn-lg btn-success">
+              <a href="./apps/hexaText"><button type="button" name="button" class="btn-lg btn-success">
                 <i class="fa fa-mobile" aria-hidden="true"></i> Leer más
               </button></a>
 
