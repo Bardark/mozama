@@ -17,7 +17,7 @@
       </div>
 
       <div class="col-md-4 col-sm-12 text-center espacioPie">
-        <a href="mailto:contacto@mozama.com.mx"class="texto3d blanco paddInterno">
+        <a href="mailto:contacto@mozama.com.mx"class="texto3d enlaceBlanco paddInterno">
           <i class="fa fa-envelope" aria-hidden="true"></i>
           contacto@mozama.com.mx
         </a>
@@ -30,9 +30,9 @@
 
       <div class="col-md-4 col-sm-12 text-center espacioPie">
         <p class="texto3d blanco paddInterno">
-          &copy; 2016 MOZAMA
+          &copy; 2016 - 2018 MOZAMA
         </p>
-        <a href="./aviso.php"class="texto3d blanco paddInterno">
+        <a href="./aviso.php"class="texto3d enlaceBlanco paddInterno">
           Aviso de privacidad
         </a>
       </div>

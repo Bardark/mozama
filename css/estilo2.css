@@ -8,10 +8,6 @@
    src: url(../fonts/Roboto-Light.ttf);
 }
 @font-face {
-  font-family: precursive;
-   src: url(../fonts/Precursive.otf);
-}
-@font-face {
   font-family: sawasdee;
    src: url(../fonts/Sawasdee.ttf);
 }
@@ -34,16 +30,6 @@
   letter-spacing: 0.2em;
 }
 
-.tipografiaPrecursive2{
-  font-family: precursive,'Open Sans',serif;
-  letter-spacing: 0.2em;
-  font-size: 1.8em;
-}
-.tipografiaPrecursive3{
-  font-family: precursive,'Open Sans',serif;
-  letter-spacing: 0.2em;
-  font-size: 2.5em;
-}
 .transparenteClaro{
   background-color: rgba(236, 239, 241, 0.7);
   border-top: #eceff1;
@@ -171,6 +157,22 @@
   text-decoration: none;
 }
 
+.enlaceBlanco{
+  padding: 2%,0,0,0;
+  color: #FAFAFA;
+}
+.enlaceBLanco:hover{
+  text-decoration: none;
+  color: #fff;
+}
+.enlaceBLanco:active{
+  text-decoration: none;
+  color: #fff;
+}
+.enlaceBLanco:link{
+  text-decoration: none;
+}
+
 
 .paddingContenido{
   padding:1% 0 0 0;  /*padding arriba derecha abajo izquierda*/
@@ -203,7 +205,7 @@ html {
 }
 .navbar-custom ul.nav li a {
   font-family: robotoRegular,'Open Sans',serif;
-	font-size: 12px;
+	font-size: 1em;
 	letter-spacing: 1px;
   color: #444;
 	text-transform: uppercase;
@@ -357,7 +359,9 @@ article {
 .textoBlanco{
   color:#FF0000;
 }
-
+.textDorado{
+  color: #FF6F00;
+}
 .well{
   background: rgba(255, 255, 255, 0.8);
   box-shadow: 0 5px 5px 3px rgba(0, 0, 0, 0.25);

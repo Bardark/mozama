@@ -202,19 +202,19 @@
                   <div class="item active">
                     <div class="row well altoWellPrecios">
                       <div class="col-md-12 paddingSlider text-center">
-                        <p class="tipografiaPrecursive3 texto3d">Básico</p>
+                        <h2 class="robotoRegular">Básico</h2>
 
 
                         <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,400 (anual), incluye correos.</li>
+                          <li style="list-style:none;" class="parrafo ">HOSPEDAJE-DOMINIO: $1,400 (anual), incluye correos.</li>
                           <br>
-                          <li style="list-style:none;" class="parrafo texto3d">DESARROLLO: $4,000  <br>
+                          <li style="list-style:none;" class="parrafo">DESARROLLO: $4,000  <br>
                             <p>
                               Sitio web de una página con información esencial acerca de tu empresa, enlaces a redes sociales, diseño responsivo.</li>
                             </p>
                             <br>
                           <li style="list-style:none;">
-                            <p class="parrafo texto3d">
+                            <p class="parrafo">
                               MANTENIMIENTO Y SOPORTE: $1,200 (anual - opcional).
                             </p>
                           </li>
@@ -230,20 +230,20 @@
                     <div class="row well altoWellPrecios">
 
                       <div class="col-md-12 paddingSlider text-center">
-                        <p class="tipografiaPrecursive3 texto3d">Estandar</p>
+                        <h2 class="robotoRegular">Estandar</h2>
 
 
                         <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
+                          <li style="list-style:none;" class="parrafo">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
                           <br>
-                          <li style="list-style:none;" class="parrafo texto3d">DESARROLLO: $6,500   <br>
+                          <li style="list-style:none;" class="parrafo">DESARROLLO: $6,500   <br>
                             <p>
                               Sitio web de 5 páginas, incluye inicio, información acerca de tu empresa, descripción de tus servicios, contacto, mapa de sitio, enlaces a redes sociales, coreos, diseño responsivo.
                             </p>
                             </li>
                             <br>
                           <li style="list-style:none;" >
-                            <p class="parrafo texto3d">MANTENIMIENTO Y SOPORTE: 1,200 (anual - opcional), los primeros 3 meses son gratis.
+                            <p class="parrafo">MANTENIMIENTO Y SOPORTE: 1,200 (anual - opcional), los primeros 3 meses son gratis.
                             </p>
                           </li>
                         </ul>
@@ -258,19 +258,19 @@
                     <div class="row well altoWellPrecios">
 
                       <div class="col-md-12 paddingSlider text-center">
-                        <p class="tipografiaPrecursive3 texto3d">Avanzado</p>
+                        <h2 class="robotoRegular">Avanzado</h2>
 
                         <ul>
-                          <li style="list-style:none;" class="parrafo texto3d">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
+                          <li style="list-style:none;" class="parrafo">HOSPEDAJE-DOMINIO: $1,450 (anual) incluye correos.</li>
                           <br>
-                          <li style="list-style:none;" class="parrafo texto3d">DESARROLLO:  $8,500   <br>
+                          <li style="list-style:none;" class="parrafo">DESARROLLO:  $8,500   <br>
                               <p>
                                 Sitio web de páginas ilimitadas con página de inicio, información acerca de tu empresa, descripción de tus servicios, contacto, mapa de sitio, enlaces a redes sociales, coreos, diseño responsivo.
                               </p>
                             </li>
                             <br>
                           <li style="list-style:none;" >
-                            <p class="parrafo texto3d">
+                            <p class="parrafo">
                               MANTENIMIENTO Y SOPORTE: Dependiendo del proyecto.
                             </p>
                           </li>
@@ -298,9 +298,9 @@
     <section id="nosotros" class="container content-section text-center seccionNosotros">
             <div class="row">
                 <div class="col-lg-12">
-                  <h1 class="page-header texto3d tipografiaPrecursive cyan">
+                  <h2 class="page-header texto3d robotoRegular cyan">
                     <i class="fa fa-suitcase"></i> Nosotros
-                  </h1>
+                  </h2>
 
                 </div>
             </div>
@@ -308,7 +308,7 @@
               <div class="col-md-4 col-sm-12">
 
                 <div class="well altoWellNosotros">
-                  <h3 class="texto3d tipografiaPrecursive2">
+                  <h3 class=" robotoRegular">
                     <i class="fa fa-building" aria-hidden="true"></i>
                     ¿Quienes somos?
                   </h3>
@@ -321,10 +321,10 @@
 
               <div class="col-md-4 col-sm-12">
                 <div class="well altoWellNosotros">
-                  <h3 class="texto3d tipografiaPrecursive2">
+                  <h2 class=" robotoRegular">
                     <i class="fa fa-user" aria-hidden="true"></i>
                     Misión
-                  </h3>
+                  </h2>
                   <br>
                   <p class="parrafo text-justify">
                     Proporcionar las tecnologías más innovadoras a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
@@ -335,10 +335,10 @@
 
              <div class="col-md-4 col-sm-12">
                <div class="well altoWellNosotros">
-                 <h3 class="texto3d tipografiaPrecursive2">
+                 <h2 class="robotoRegular">
                    <i class="fa fa-star" aria-hidden="true"></i>
                    Visón
-                 </h3>
+                 </h2>
                  <br>
                  <p class="parrafo text-justify">
                    Ser una organización en constante preparación en el campo de desarrollo de aplicaciones y sitios web con el objetivo de brindar servicios de calidad.
@@ -356,7 +356,7 @@
           <br><br>
           <div class="row" >
             <div class="col-md-12 text-center">
-              <h1 class=" tipografiaPrecursive"> <i class="fa fa-mobile" aria-hidden="true"></i> Aplicaciones móviles</h1>
+              <h1 class="robotoRegular texto3d"> <i class="fa fa-mobile" aria-hidden="true"></i> Aplicaciones móviles</h1>
             </div>
           </div>
 
@@ -365,7 +365,7 @@
           <div class="row" class="paddingApp">
             <div class="col-md-12 text-center">
                 <img src="./img/icono-aplicacion-movil.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
-                <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
+                <h2 class="robotoRegular" style="color:#F57F17"><strong>HexaText</strong></h2>
                 <a href="https://play.google.com/store/apps/details?id=mx.com.mozama.hexatext.pro" target="blanck">
                   <img src="./img/google-play-badge.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
                 </a>
@@ -407,9 +407,9 @@
       <section id="portafolio" class="container content-section text-center seccion1">
         <div class="row">
           <div class="col-lg-12">
-            <h1 class="page-header texto3d tipografiaPrecursive cyan">
+            <h2 class="page-header texto3d robotoRegular cyan">
             	<i class="fa fa-suitcase"></i> Portafolio
-            </h1>
+            </h2>
           </div>
           <div class="col-md-4 animEscalarSimple">
             <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo-cliente.png" alt="logo de cliente" class="imgPortafolio img-responsive sombra"></a>
@@ -426,9 +426,9 @@
         <section id="contacto" class="container content-section text-center seccion">
           <div class="row">
            <div class="col-lg-12">
-             <h1 class="page-header texto3d tipografiaPrecursive verde">
+             <h2 class="page-header texto3d robotoRegular verde">
                <i class="fa fa-comments"></i> Contactenos
-             </h1>
+             </h2>
              <br>
             </div>
            </div>

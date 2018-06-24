@@ -51,7 +51,7 @@
     <br><br>
     <div class="row" >
       <div class="col-md-12 text-center">
-        <h1 class=" tipografiaPrecursive">Aplicaciones móviles</h1>
+        <h1 class=" robotoRegular">Aplicaciones móviles</h1>
       </div>
     </div>
 
@@ -59,7 +59,7 @@
     <div class="row" class="paddingApp">
       <div class="col-md-12 text-center">
           <img src="../img/icono-aplicacion-movil.png" alt="icono de aplicacion movil HexaText" class="imgApp" >
-          <h2 class=" tipografiaPrecursive">HexaText - Android</h2>
+          <h2 class=" robotoRegular textDorado">HexaText</h2>
       </div>
     </div>
     <div class="row">
@@ -69,7 +69,7 @@
         <a href="https://play.google.com/store/apps/details?id=mx.com.mozama.hexatext.pro" target="blanck">
           <img src="../img/google-play-badge.png" alt="icono de aplicacion movil HexaText" class="imgApp2" >
         </a>
-          <h2 class="">HexaText</h2>
+          <h2 class="textDorado">HexaText</h2>
       </div>
 
       <div class="col-md-6 text-center">
@@ -78,7 +78,7 @@
         <a href="https://play.google.com/store/apps/details?id=mx.com.mozama.hexatext" target="blanck">
           <img src="../img/google-play-badge.png" alt="icono de aplicacion movil HexaText" class="imgApp2" >
         </a>
-        <h2 class="">HexaText-Free</h2>
+        <h2 class="textDorado">HexaText-Free</h2>
         <p>Versión gratuita</p>
       </div>
 </div>
@@ -116,8 +116,8 @@
     <br><br>
     <div class="row">
       <div class="col-md-12 text-center">
-        <h4 class="tipografiaPrecursive3">Funcionamiento</h4>
-        <h3 class="tipografiaPrecursive3">CIFRAR TEXTO</h3>
+        <h4 class="robotoRegular3">Funcionamiento</h4>
+        <h2 class="robotoRegular3 textDorado texto3d">CIFRAR TEXTO</h2>
       </div>
     </div>
     <br><br>
@@ -150,7 +150,7 @@
 
 
                     <br><br>
-                 <h4 class="tipografiaPrecursive2">Compartir Texto Cifrado </h4>
+                 <h4 class="robotoRegular2">Compartir Texto Cifrado </h4>
                 <ul class="parrafo text-justify" >
                       <br>
                       <li>Pulsar sobre el primer icono del men&uacute superior derecho.</li>
@@ -159,7 +159,7 @@
                 </ul>
                     <br>
 
-                  <h4 class="tipografiaPrecursive2">Guardar Texto Cifrado </h4>
+                  <h4 class="robotoRegular2">Guardar Texto Cifrado </h4>
                   <ul class="parrafo text-justify">
                       <br>
                       <li>Pulsar sobre el &iacutecono de guaradar del men&uacute superior derecho.</li>
@@ -195,7 +195,7 @@
     <div class="row">
       <div class="col-md-12 text-center">
 
-        <h3 class="tipografiaPrecursive3">DESCIFRAR TEXTO </h3>
+        <h3 class="robotoRegular3 textDorado texto3d">DESCIFRAR TEXTO </h3>
       </div>
     </div>
 

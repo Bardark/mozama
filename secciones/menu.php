@@ -6,8 +6,11 @@
             </button>
 
             <a class="textLogo enlaceSimple" href="index.php">
+              <strong>
+                  MOZAMA
+              </strong>
                 <!--    <img src="img/logoNav.png" class="logoNav"> -->
-                MOZAMA
+
             </a>
         </div>
 

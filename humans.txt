@@ -1,5 +1,6 @@
 /* TEAM */
-	Web Developers, Web designer: MOZAMA(Reyna Hernández, Edgar Santiago, Rene Hernández)
+	Web Developers - Web designer: MOZAMA(Reyna Hernández, Edgar Santiago, Rene Hernández)
+	Android Developers: Aarón Vizcarra, Edgar Santiago
 	Site: www.mozama.com.mx
 	From: Valle de Teotihuacan, Estado de México, México.
 
