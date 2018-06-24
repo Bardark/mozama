@@ -89,7 +89,7 @@
                         <h3 class="robotoRegular texto3d">Desarrollo de Sitios Web</h3>
                         <br><br>
       								  <p class="parrafo texto3d">
-                          Desarrollamos sitios web a la medida respondeiendo a las necesidades de tu organización.
+                          Desarrollamos sitios web a la medida respondiendo a las necesidades de tu organización.
                         </p>
                       </div>
                     </div>
@@ -135,7 +135,7 @@
                     Diseño y desarrollo único
                   </h3>
                   <br>
-                  <p class="parrafo text-justify">
+                  <p class="parrafo text-center">
                     Creamos sitios web únicos con características especificas que satisfacen a cada organización, basándonos en tus necesidades y los principios de usabilidad.
                   </p>
                 </div>
@@ -148,7 +148,7 @@
                     Diseño responsivo
                   </h3>
                   <br>
-                  <p class="parrafo text-justify">
+                  <p class="parrafo text-center">
                     La tecnología responsiva permite que tu sitio web se adapte a cualquier tamaño de pantalla, esto permite que tus clientes puedan visualizarla desde una pantalla de escritorio hasta en un celular.
                   </p>
                 </div>
@@ -161,7 +161,7 @@
                     Hospedaje web y registro de dominio
                   </h3>
                   <br><br>
-                  <p class="parrafo text-justify">
+                  <p class="parrafo text-center">
                     <i class="fa fa-server" aria-hidden="true"></i>
                     Hospedamos tu sitio web en los mejores servidores y realizamos el registro de tu dominio.
                   </p>
@@ -176,7 +176,7 @@
                     Mantenimiento de sitios web
                   </h3>
                   <br><br>
-                  <p class="parrafo text-justify">
+                  <p class="parrafo text-center">
                     Si ya cuentas con un sitio web pero necesitas servicios de soporte, actualización de contenidos o de tecnologías.
                   </p>
                 </div>
@@ -327,7 +327,7 @@
                   </h2>
                   <br>
                   <p class="parrafo text-justify">
-                    Proporcionar las tecnologías más innovadoras a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en a web.
+                    Proporcionar las tecnologías más innovadoras a medida de las necesidades de nuestros clientes en el valle de Teotihuacán, con el objetivo de darse a conocer en la web.
                   </p>
                   <br>
                 </div>
@@ -337,7 +337,7 @@
                <div class="well altoWellNosotros">
                  <h2 class="robotoRegular">
                    <i class="fa fa-star" aria-hidden="true"></i>
-                   Visón
+                   Visión
                  </h2>
                  <br>
                  <p class="parrafo text-justify">
@@ -411,11 +411,13 @@
             	<i class="fa fa-suitcase"></i> Portafolio
             </h2>
           </div>
-          <div class="col-md-4 animEscalarSimple">
-            <a href="http://www.aventuraenglobos.com" target=blanck><img src="img/logo-cliente.png" alt="logo de cliente" class="imgPortafolio img-responsive sombra"></a>
+          <div class="col-md-4 animEscalarSimple" >
+            <a href="http://www.aventuraenglobos.com" target=_blanck class="margenImg">
+              <img src="img/logo-cliente.png" style="background-color: rgba(254,254,254,.95);" alt="logo de cliente" class="imgPortafolio img-responsive sombra"></a>
           </div>
-          <div class="col-md-4 animEscalarSimple">
-            <a href="http://www.eventosquehacenhistoria.com/" target=blanck><img src="img/logo-cliente-2.png" alt="logo de cliente 2" class="imgPortafolio img-responsive sombra"></a>
+          <div class="col-md-4 animEscalarSimple" >
+            <a href="http://www.eventosquehacenhistoria.com/" target=_blanck class="margenImg" >
+              <img src="img/logo-cliente-2.png" style="background-color: rgba(10,10,10,.95);" alt="logo de cliente 2" class="imgPortafolio img-responsive sombra"></a>
           </div>
       </div>
       <br><br>
@@ -512,7 +514,7 @@
     });
 
     $('.carousel').carousel({
-      interval: 3000,
+      interval: 6000,
       pause: "hover",
     })
     </script>
