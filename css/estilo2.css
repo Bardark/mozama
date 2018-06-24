@@ -1,6 +1,10 @@
 
 @font-face {
   font-family: robotoRegular;
+   src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: robotoLigth;
    src: url(../fonts/Roboto-Light.ttf);
 }
 @font-face {
@@ -12,8 +16,12 @@
    src: url(../fonts/Sawasdee.ttf);
 }
 .parrafo{
-  font-family: robotoRegular,'Open Sans',serif;
+  font-family: robotoLigth,'Open Sans',serif;
   font-size: 1.4em;
+  letter-spacing: 0.09em;
+}
+.robotoRegular{
+  font-family: robotoRegular,'Open Sans',serif;
   letter-spacing: 0.09em;
 }
 .tipografiaPrecursive{
@@ -24,7 +32,6 @@
 .tipografiaPrecursive2{
   font-family: precursive,'Open Sans',serif;
   letter-spacing: 0.2em;
-
 }
 
 .tipografiaPrecursive2{
@@ -192,7 +199,7 @@ html {
 }
 .nav.navbar-nav {
   /*  align: right;*/
-    background-color: rgba(255,255,255,.4);
+    background-color: rgba(255,255,255,.8);
 }
 .navbar-custom ul.nav li a {
   font-family: robotoRegular,'Open Sans',serif;

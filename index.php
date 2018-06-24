@@ -33,7 +33,7 @@
     ga('send', 'pageview');
 
   </script>
-  
+
 </head>
 
 <body data-spy="scroll" id="page-top">
@@ -62,7 +62,7 @@
   <div class="row">
       <div class="col-lg-12">
 
-          <h1 class="page-header texto3d tipografiaPrecursive cyan">
+          <h1 class="page-header texto3d robotoRegular cyan">
               <i class="fa fa-laptop"></i> Servicios
           </h1>
 
@@ -83,10 +83,10 @@
                   <div class="item active">
                     <div class="row">
                       <div class="col-md-6 paddingSlider">
-                        <img src="img/desarrollo-resposive.jpg" alt="desarollo de sitios web responsivo" class="imgSlider">
+                        <img src="img/desarrollo-resposive.jpg" height="300px">
                       </div>
                       <div class="col-md-6 paddingSlider text-center">
-                        <strong class="tipografiaPrecursive2 texto3d">Desarrollo de Sitios Web</strong>
+                        <h3 class="robotoRegular texto3d">Desarrollo de Sitios Web</h3>
                         <br><br>
       								  <p class="parrafo texto3d">
                           Desarrollamos sitios web a la medida respondeiendo a las necesidades de tu organización.
@@ -99,10 +99,10 @@
                   <div class="item">
                     <div class="row">
                       <div class="col-md-6 paddingSlider">
-                        <img src="img/mantenimiento-computo.jpg" alt="manteniento de equipos de computo" class="imgSlider">
+                        <img src="img/mantenimiento-computo.jpg" alt="manteniento de equipos de computo" class="imgSlider" height="300px">
                       </div>
                       <div class="col-md-6 paddingSlider text-center">
-                        <strong class="tipografiaPrecursive2 texto3d">Mantenimiento preventivo y correctivo</strong>
+                        <h3 class="robotoRegular texto3d">Mantenimiento preventivo y correctivo</h3>
                         <br><br>
         								<p class="parrafo texto3d">Contamos con amplia experiencia en el mantenimiento de equipos de cómputo, instalación de software,
                           limpieza de virus, optimización de equipos, adqusición de hardware para un mejor rendimiento.</p>
@@ -123,14 +123,17 @@
               </div>
 
             <div class="row paddingSlider2">
-              <strong class="text-center texto3d tipografiaPrecursive2">Desarrollo de Sitios Web</strong>
+              <h2 class="text-center texto3d robotoRegular">
+                <i class="fa fa-code" aria-hidden="true"></i>
+                Desarrollo de Sitios Web
+              </h2>
               <br><br><br>
               <div class="col-md-6">
                 <div class="well altoWellServicio">
-                  <h5 class="texto3d tipografiaPrecursive2">
+                  <h3 class=" robotoRegular">
                     <i class="fa fa-star" aria-hidden="true"></i>
                     Diseño y desarrollo único
-                  </h5>
+                  </h3>
                   <br>
                   <p class="parrafo text-justify">
                     Creamos sitios web únicos con características especificas que satisfacen a cada organización, basándonos en tus necesidades y los principios de usabilidad.
@@ -140,7 +143,7 @@
 
               <div class="col-md-6 ">
                 <div class="well altoWellServicio">
-                  <h3 class="texto3d tipografiaPrecursive2">
+                  <h3 class="robotoRegular">
                     <i class="fa fa-mobile" aria-hidden="true"></i>
                     Diseño responsivo
                   </h3>
@@ -153,7 +156,7 @@
 
               <div class="col-md-6">
                 <div class="well altoWellServicio">
-                  <h3 class="texto3d tipografiaPrecursive2">
+                  <h3 class="robotoRegular">
                     <i class="fa fa-tasks" aria-hidden="true"></i>
                     Hospedaje web y registro de dominio
                   </h3>
@@ -168,7 +171,7 @@
 
               <div class="col-md-6">
                 <div class="well altoWellServicio">
-                  <h3 class="texto3d tipografiaPrecursive2">
+                  <h3 class="robotoRegular">
                     <i class="fa fa-cogs" aria-hidden="true"></i>
                     Mantenimiento de sitios web
                   </h3>
