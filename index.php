@@ -310,7 +310,7 @@
                 <div class="well altoWellNosotros">
                   <h3 class=" robotoRegular">
                     <i class="fa fa-building" aria-hidden="true"></i>
-                    ¿Quienes somos?
+                    ¿Quiénes somos?
                   </h3>
                   <br>
                   <p class="parrafo text-justify">
