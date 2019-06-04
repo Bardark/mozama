@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="es_project_title"><![CDATA[Nuevo proyecto]]></data>
+
+
+
+  <data name="es_pano10_title"><![CDATA[IMG-20160828-WA0001]]></data>
+
+
+  <data name="es_pano12_title"><![CDATA[IMG-20160828-WA0000]]></data>
+
+
+
+
+
+
+  <data name="es_controlBar_dockedThumbnailsprevSceneTip"><![CDATA[Panorama Anterior]]></data>
+  <data name="es_controlBar_dockedThumbnailsnextSceneTip"><![CDATA[Panorama Siguiente]]></data>
+  <data name="es_controlBar_dockedThumbnailszoomInTip"><![CDATA[Aproximar]]></data>
+  <data name="es_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Alejar]]></data>
+  <data name="es_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Mover a la izquierda]]></data>
+  <data name="es_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Mover a la Derecha]]></data>
+  <data name="es_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Mover hacia Arriba]]></data>
+  <data name="es_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Mover hacia Abajo]]></data>
+  <data name="es_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Introducir Pantalla Completa]]></data>
+  <data name="es_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Salir de Pantalla completa]]></data>
+  <data name="es_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Iniciar la rotación automática]]></data>
+  <data name="es_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Detener la Rotación Automática]]></data>
+  <data name="es_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Mostrar Pantalla de Ayuda]]></data>
+  <data name="es_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Ocultar Pantalla de Ayuda]]></data>
+  <data name="es_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Mostrar Controles]]></data>
+  <data name="es_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Ocultar los Controles]]></data>
+  <data name="es_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Cambiar el modo de control]]></data>
+  <data name="es_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Cambiar el modo de control]]></data>
+
+
+  <data name="es_vr_setup_hmd0"><![CDATA[SELECCIONE SU HMD]]></data>
+  <data name="es_vr_setup_advanced"><![CDATA[CONFIGURACIÓN AVANZADA]]></data>
+  <data name="es_vr_setup_title"><![CDATA[CONFIGURACIÓN WEB VR]]></data>
+  <data name="es_vr_setup_dvn1"><![CDATA[Dispositivo:]]></data>
+  <data name="es_vr_setup_siz1"><![CDATA[Tamaño de pantalla:]]></data>
+  <data name="es_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="es_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="es_vr_setup_hmd3"><![CDATA[Personalizar]]></data>
+  <data name="es_vr_setup_cal"><![CDATA[Calibrar el giroscopio]]></data>
+  <data name="es_vr_setup_sav"><![CDATA[GUARDAR]]></data>
+  <data name="es_vr_setup_rst"><![CDATA[REINICIO]]></data>
+  <data name="es_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="es_vr_setup_cls"><![CDATA[CERRAR]]></data>
+  <data name="es_vr_setup_m31"><![CDATA[CONFIGURACIÓN HMD]]></data>
+  <data name="es_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="es_vr_setup_dst1"><![CDATA[Distorsión:]]></data>
+  <data name="es_vr_setup_d2tx"><![CDATA[Distorsión 2:]]></data>
+  <data name="es_vr_setup_vig1"><![CDATA[Viñeteado:]]></data>
+  <data name="es_vr_setup_cac1"><![CDATA[Aberración cromática:]]></data>
+  <data name="es_vr_setup_olp1"><![CDATA[Superposición:]]></data>
+  <data name="es_vr_setup_m35"><![CDATA[RETORNO]]></data>
+  <data name="es_vr_setup_cb1"><![CDATA[GIROSCOPIO]]></data>
+  <data name="es_vr_setup_cb2"><![CDATA[Coloque el dispositivo sobre una superficie plana y [br ] y estable y pulse CALIBRAR[br] para corregir la deriva del giroscopio.]]></data>
+  <data name="es_vr_setup_cb3"><![CDATA[CALIBRAR]]></data>
+  <data name="es_vr_setup_cb4"><![CDATA[REINICIO]]></data>
+  <data name="es_vr_setup_cb5"><![CDATA[RETORNO]]></data>
+  <data name="es_vr_setup_cb6"><![CDATA[Calibrando...]]></data>
+  <data name="es_vr_setup_cb7"><![CDATA[Calibración exitosa]]></data>
+  <data name="es_vr_setup_cb8"><![CDATA[Calibración fracasada]]></data>
+  <data name="es_vr_setup_unavailable"><![CDATA[El modo VR no está disponible en tu dispositivo]]></data>
+
+
+
+
+
+
+
+
+
+</krpano>
